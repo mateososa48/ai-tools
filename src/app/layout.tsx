@@ -17,7 +17,7 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: {
-    default: `${APP_NAME} — Discover the Right AI Tools for You`,
+    default: `${APP_NAME} — Find the Right AI Tool for Anything`,
     template: `%s | ${APP_NAME}`,
   },
   description: APP_DESCRIPTION,

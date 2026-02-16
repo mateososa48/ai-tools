@@ -5,7 +5,7 @@ import { SearchBar } from "@/components/search/search-bar";
 import { ToolsListing } from "@/components/tools/tools-listing";
 
 export const metadata: Metadata = {
-  title: "Browse AI Tools",
+  title: "Browse Tools",
   description: "Explore hundreds of AI tools across every category. Filter by pricing, rating, and more.",
 };
 
@@ -14,7 +14,7 @@ export default function ToolsPage() {
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
       <div className="mb-8">
         <h1 className="font-heading text-3xl font-bold tracking-tight sm:text-4xl">
-          Browse AI Tools
+          Browse Tools
         </h1>
         <p className="mt-2 text-lg text-muted-foreground">
           Explore our collection of AI tools across every category

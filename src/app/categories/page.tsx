@@ -7,7 +7,7 @@ import {
 import { CATEGORIES } from "@/lib/constants";
 
 export const metadata: Metadata = {
-  title: "AI Tool Categories",
+  title: "Tool Categories",
   description: "Browse AI tools by category. Find the best AI tools for writing, design, coding, marketing, and more.",
 };
 

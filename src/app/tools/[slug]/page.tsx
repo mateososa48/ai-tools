@@ -9,21 +9,48 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
 import { PRICING_LABELS } from "@/lib/constants";
+import { createClient } from "@/lib/supabase/server";
 import type { Tool, PricingTier } from "@/types/tool";
 import type { Review } from "@/types/review";
-
-// For MVP, use static tool data. Replace with Supabase fetch when connected.
-import { SEED_TOOLS } from "@/lib/seed-data";
 
 interface ToolPageData extends Tool {
   reviews: Review[];
 }
 
 async function getToolBySlug(slug: string): Promise<ToolPageData | null> {
-  // MVP: Use seed data
-  const tool = SEED_TOOLS.find((t) => t.slug === slug);
-  if (!tool) return null;
-  return { ...tool, reviews: [] } as unknown as ToolPageData;
+  const supabase = await createClient();
+
+  const { data: tool, error } = await supabase
+    .from("tools")
+    .select("*")
+    .eq("slug", slug)
+    .eq("status", "active")
+    .single();
+
+  if (error || !tool) return null;
+
+  // Get categories
+  const { data: toolCategories } = await supabase
+    .from("tool_categories")
+    .select("categories(id, name, slug, icon, description, parent_id, display_order, tool_count)")
+    .eq("tool_id", tool.id);
+
+  // Get reviews
+  const { data: reviews } = await supabase
+    .from("reviews")
+    .select("*, profiles(display_name, avatar_url)")
+    .eq("tool_id", tool.id)
+    .order("created_at", { ascending: false })
+    .limit(10);
+
+  return {
+    ...tool,
+    categories: toolCategories?.map((tc: Record<string, unknown>) => tc.categories).filter(Boolean) || [],
+    reviews: (reviews || []).map((r: Record<string, unknown>) => ({
+      ...r,
+      user: r.profiles || undefined,
+    })),
+  } as unknown as ToolPageData;
 }
 
 export async function generateMetadata({

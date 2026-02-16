@@ -46,7 +46,7 @@ export function Navbar() {
             <Link href="/search">Search</Link>
           </Button>
           <Button size="sm" className="shadow-md shadow-primary/25" asChild>
-            <Link href="/search">Find AI Tools</Link>
+            <Link href="/search">Find Tools</Link>
           </Button>
         </div>
 
@@ -76,7 +76,7 @@ export function Navbar() {
             <div className="mt-2 border-t border-border/40 pt-4">
               <Button className="w-full shadow-md shadow-primary/25" asChild>
                 <Link href="/search" onClick={() => setMobileOpen(false)}>
-                  Find AI Tools
+                  Find Tools
                 </Link>
               </Button>
             </div>

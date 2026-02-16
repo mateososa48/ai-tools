@@ -47,31 +47,35 @@ export async function searchTools(
   const toolList = tools
     .map(
       (t) =>
-        `ID: ${t.id} | Name: ${t.name} | ${t.tagline} | Pricing: ${t.pricing_model}${t.has_free_tier ? " (free tier available)" : ""} | Rating: ${t.avg_rating}/5 | Features: ${t.features?.slice(0, 6).join(", ") || "N/A"} | Use cases: ${t.use_cases?.slice(0, 4).join(", ") || "N/A"}`
+        `${t.id} | ${t.name} | ${t.tagline} | ${t.pricing_model}${t.has_free_tier ? " (free)" : ""} | ${t.avg_rating}/5 | ${t.features?.join(", ") || ""} | ${t.use_cases?.join(", ") || ""}`
     )
     .join("\n");
 
-  const response = await groq.chat.completions.create({
-    model: "llama-3.3-70b-versatile",
-    temperature: 0.3,
-    response_format: { type: "json_object" },
-    messages: [
-      { role: "system", content: SYSTEM_PROMPT },
-      {
-        role: "user",
-        content: `User's request: "${query}"\n\nAvailable tools:\n${toolList}`,
-      },
-    ],
-  });
-
-  const content = response.choices[0]?.message?.content;
-  if (!content) return [];
-
   try {
+    const response = await groq.chat.completions.create({
+      model: "llama-3.3-70b-versatile",
+      temperature: 0.3,
+      response_format: { type: "json_object" },
+      messages: [
+        { role: "system", content: SYSTEM_PROMPT },
+        {
+          role: "user",
+          content: `User's request: "${query}"\n\nAvailable tools:\n${toolList}`,
+        },
+      ],
+    });
+
+    const content = response.choices[0]?.message?.content;
+    if (!content) return [];
+
     const parsed = JSON.parse(content);
     return parsed.recommendations || [];
-  } catch {
-    console.error("Failed to parse Groq response");
+  } catch (err: unknown) {
+    // Surface rate limit errors so the API route can handle them
+    if (err && typeof err === "object" && "status" in err && (err as { status: number }).status === 429) {
+      throw new Error("RATE_LIMITED");
+    }
+    console.error("Groq search error:", err);
     return [];
   }
 }

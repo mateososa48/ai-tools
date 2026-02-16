@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { SearchResults } from "@/components/search/search-results";
 
 export const metadata: Metadata = {
-  title: "Search AI Tools",
+  title: "Search Tools",
   description: "Describe what you want to accomplish and find the perfect AI tool for your needs.",
 };
 

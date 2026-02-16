@@ -1,0 +1,6890 @@
+[
+  {
+    "name": "Writesonic",
+    "slug": "writesonic",
+    "tagline": "AI Writing Assistant",
+    "description": "Writesonic is an AI-powered writing tool that helps users generate high-quality content, including blog posts, articles, and social media posts. It's designed for content creators, marketers, and businesses looking to streamline their content creation process. With its advanced algorithms and natural language processing capabilities, Writesonic makes it easy to produce engaging and informative content.",
+    "url": "https://writesonic.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited content generation",
+          "Basic editing tools"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support",
+          "Custom onboarding",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "features": [
+      "Content generation",
+      "Editing tools",
+      "Research assistance",
+      "SEO optimization",
+      "Collaboration tools",
+      "Custom templates"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Marketing",
+      "Social media management",
+      "Blogging"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "WordPress",
+      "Google Docs"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content",
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Rytr",
+    "slug": "rytr",
+    "tagline": "AI Writing Tool",
+    "description": "Rytr is an AI-powered writing tool that helps users generate high-quality content, including blog posts, articles, and social media posts. It's designed for content creators, marketers, and businesses looking to streamline their content creation process. With its advanced algorithms and natural language processing capabilities, Rytr makes it easy to produce engaging and informative content.",
+    "url": "https://rytr.me",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited content generation",
+          "Basic editing tools"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 9,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Unlimited",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support",
+          "Custom onboarding",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "features": [
+      "Content generation",
+      "Editing tools",
+      "Research assistance",
+      "SEO optimization",
+      "Collaboration tools",
+      "Custom templates"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Marketing",
+      "Social media management",
+      "Blogging"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "WordPress",
+      "Google Docs"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Wordtune",
+    "slug": "wordtune",
+    "tagline": "AI Writing Companion",
+    "description": "Wordtune is an AI-powered writing tool that helps users refine and improve their writing. It's designed for content creators, marketers, and businesses looking to enhance their writing skills. With its advanced algorithms and natural language processing capabilities, Wordtune makes it easy to produce engaging and informative content.",
+    "url": "https://wordtune.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited editing capabilities",
+          "Basic writing suggestions"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 9.99,
+        "interval": "month",
+        "features": [
+          "Unlimited editing capabilities",
+          "Advanced writing suggestions",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": 24.99,
+        "interval": "month",
+        "features": [
+          "Unlimited editing capabilities",
+          "Advanced writing suggestions",
+          "Priority support",
+          "Custom onboarding",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "features": [
+      "Writing suggestions",
+      "Editing tools",
+      "Research assistance",
+      "Grammar and spell check",
+      "Collaboration tools",
+      "Custom templates"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Writing improvement",
+      "Editing",
+      "Proofreading"
+    ],
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "QuillBot",
+    "slug": "quillbot",
+    "tagline": "AI Writing Assistant",
+    "description": "QuillBot is an AI-powered writing tool that helps users generate high-quality content, including blog posts, articles, and social media posts. It's designed for content creators, marketers, and businesses looking to streamline their content creation process. With its advanced algorithms and natural language processing capabilities, QuillBot makes it easy to produce engaging and informative content.",
+    "url": "https://quillbot.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited content generation",
+          "Basic editing tools"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 19.95,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 49.95,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support",
+          "Custom onboarding",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "features": [
+      "Content generation",
+      "Editing tools",
+      "Research assistance",
+      "SEO optimization",
+      "Collaboration tools",
+      "Custom templates"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Marketing",
+      "Social media management",
+      "Blogging"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "WordPress",
+      "Google Docs"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Hemingway Editor",
+    "slug": "hemingway-editor",
+    "tagline": "Simplify Your Writing",
+    "description": "Hemingway Editor is a writing tool that helps users simplify and improve their writing. It's designed for content creators, marketers, and businesses looking to enhance their writing skills. With its advanced algorithms and natural language processing capabilities, Hemingway Editor makes it easy to produce clear and concise content.",
+    "url": "https://hemingwayapp.com",
+    "pricing_model": "paid",
+    "price_starting_at": 19.99,
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Desktop App",
+        "price": 19.99,
+        "interval": null,
+        "features": [
+          "Writing suggestions",
+          "Editing tools",
+          "Research assistance",
+          "Grammar and spell check"
+        ]
+      }
+    ],
+    "features": [
+      "Writing suggestions",
+      "Editing tools",
+      "Research assistance",
+      "Grammar and spell check",
+      "Collaboration tools"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Writing improvement",
+      "Editing",
+      "Proofreading"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Microsoft Word",
+      "Google Docs"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Sudowrite",
+    "slug": "sudowrite",
+    "tagline": "AI Writing Tool",
+    "description": "Sudowrite is an AI-powered writing tool that helps users generate high-quality content, including fiction and non-fiction writing. It's designed for writers, authors, and content creators looking to enhance their writing skills. With its advanced algorithms and natural language processing capabilities, Sudowrite makes it easy to produce engaging and informative content.",
+    "url": "https://sudowrite.com",
+    "pricing_model": "paid",
+    "price_starting_at": 20,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Monthly",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Unlimited writing suggestions",
+          "Advanced editing tools",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Yearly",
+        "price": 200,
+        "interval": "year",
+        "features": [
+          "Unlimited writing suggestions",
+          "Advanced editing tools",
+          "Priority support",
+          "Custom onboarding",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "features": [
+      "Writing suggestions",
+      "Editing tools",
+      "Research assistance",
+      "Grammar and spell check",
+      "Collaboration tools",
+      "Custom templates"
+    ],
+    "use_cases": [
+      "Fiction writing",
+      "Non-fiction writing",
+      "Content creation",
+      "Writing improvement"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Simplified",
+    "slug": "simplified",
+    "tagline": "AI Content Creation",
+    "description": "Simplified is an AI-powered content creation tool that helps users generate high-quality content, including social media posts, blog posts, and articles. It's designed for content creators, marketers, and businesses looking to streamline their content creation process. With its advanced algorithms and natural language processing capabilities, Simplified makes it easy to produce engaging and informative content.",
+    "url": "https://simplified.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited content generation",
+          "Basic editing tools"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 24,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Unlimited content generation",
+          "Advanced editing tools",
+          "Priority support",
+          "Custom onboarding",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "features": [
+      "Content generation",
+      "Editing tools",
+      "Research assistance",
+      "SEO optimization",
+      "Collaboration tools",
+      "Custom templates"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Marketing",
+      "Social media management",
+      "Blogging"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "WordPress",
+      "Google Docs"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content",
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Anyword",
+    "slug": "anyword",
+    "tagline": "AI Content Optimization",
+    "description": "Anyword is an AI-powered content optimization tool that helps users generate high-quality content, including social media posts, blog posts, and articles. It's designed for content creators, marketers, and businesses looking to enhance their content's performance. With its advanced algorithms and natural language processing capabilities, Anyword makes it easy to produce engaging and informative content.",
+    "url": "https://anyword.com",
+    "pricing_model": "paid",
+    "price_starting_at": 19,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 19,
+        "interval": "month",
+        "features": [
+          "Content optimization",
+          "Writing suggestions",
+          "Research assistance"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Content optimization",
+          "Writing suggestions",
+          "Research assistance",
+          "Priority support",
+          "Custom onboarding"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Content optimization",
+          "Writing suggestions",
+          "Research assistance",
+          "Priority support",
+          "Custom onboarding",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "features": [
+      "Content optimization",
+      "Writing suggestions",
+      "Research assistance",
+      "Grammar and spell check",
+      "Collaboration tools",
+      "Custom templates"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Marketing",
+      "Social media management",
+      "Blogging"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "WordPress",
+      "Google Docs"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content",
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Writer",
+    "slug": "writer",
+    "tagline": "AI Writing",
+    "description": "Writer is an AI-powered writing tool designed to help content creators and marketers produce high-quality content quickly and efficiently. It offers features like content suggestions, grammar correction, and style guidance. Writer is perfect for businesses and individuals looking to streamline their content creation process.",
+    "url": "https://writer.com",
+    "pricing_model": "paid",
+    "price_starting_at": 12,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 12,
+        "interval": "month",
+        "features": [
+          "Content Suggestions",
+          "Grammar Correction",
+          "Style Guidance"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Content Suggestions",
+          "Grammar Correction",
+          "Style Guidance",
+          "Collaboration Tools",
+          "Customizable Templates"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Content Suggestions",
+          "Grammar Correction",
+          "Style Guidance",
+          "Collaboration Tools",
+          "Customizable Templates",
+          "Priority Support"
+        ]
+      }
+    ],
+    "features": [
+      "Content Suggestions",
+      "Grammar Correction",
+      "Style Guidance",
+      "Collaboration Tools",
+      "Customizable Templates",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Content Creation",
+      "Marketing",
+      "Blogging",
+      "Copywriting"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 150,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Textblaze",
+    "slug": "textblaze",
+    "tagline": "AI Writing",
+    "description": "Textblaze is an AI-powered writing tool that helps users generate high-quality content quickly and efficiently. It offers features like content suggestions, grammar correction, and style guidance. Textblaze is perfect for individuals and businesses looking to streamline their content creation process.",
+    "url": "https://blaze.today",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Content Suggestions",
+          "Grammar Correction"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Content Suggestions",
+          "Grammar Correction",
+          "Style Guidance",
+          "Collaboration Tools"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "Content Suggestions",
+          "Grammar Correction",
+          "Style Guidance",
+          "Collaboration Tools",
+          "Customizable Templates",
+          "Priority Support"
+        ]
+      }
+    ],
+    "features": [
+      "Content Suggestions",
+      "Grammar Correction",
+      "Style Guidance",
+      "Collaboration Tools",
+      "Customizable Templates",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Content Creation",
+      "Marketing",
+      "Blogging",
+      "Copywriting"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "avg_rating": 4.1,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "writing-content",
+      "business-productivity"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Stable Diffusion",
+    "slug": "stable-diffusion",
+    "tagline": "AI Art",
+    "description": "Stable Diffusion is an AI-powered art generation tool that allows users to create stunning images and artwork. It offers features like text-to-image generation, image-to-image translation, and style transfer. Stable Diffusion is perfect for artists, designers, and anyone looking to explore the creative possibilities of AI.",
+    "url": "https://stability.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 10,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer",
+          "Customizable Models"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer",
+          "Customizable Models",
+          "Priority Support"
+        ]
+      }
+    ],
+    "features": [
+      "Text-to-Image Generation",
+      "Image-to-Image Translation",
+      "Style Transfer",
+      "Customizable Models",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Art Generation",
+      "Design",
+      "Marketing",
+      "Advertising"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Adobe Photoshop",
+      "Sketch"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Leonardo AI",
+    "slug": "leonardo-ai",
+    "tagline": "AI Solutions",
+    "description": "Leonardo AI is an AI-powered platform that offers a range of solutions for businesses and individuals. It provides features like AI-powered chatbots, content generation, and data analysis. Leonardo AI is perfect for companies looking to automate tasks and improve efficiency.",
+    "url": "https://leonardo.ai",
+    "pricing_model": "contact_sales",
+    "price_starting_at": 0,
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Custom",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "AI-Powered Chatbots",
+          "Content Generation",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "features": [
+      "AI-Powered Chatbots",
+      "Content Generation",
+      "Data Analysis",
+      "Customizable Solutions",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Customer Service",
+      "Marketing",
+      "Sales",
+      "Data Analysis"
+    ],
+    "platforms": [
+      "web",
+      "desktop",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Hubspot",
+      "Zendesk"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Adobe Firefly",
+    "slug": "adobe-firefly",
+    "tagline": "AI Creative",
+    "description": "Adobe Firefly is an AI-powered creative tool that allows users to generate stunning images, videos, and artwork. It offers features like text-to-image generation, image-to-image translation, and style transfer. Adobe Firefly is perfect for artists, designers, and anyone looking to explore the creative possibilities of AI.",
+    "url": "https://firefly.adobe.com",
+    "pricing_model": "paid",
+    "price_starting_at": 20,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer",
+          "Customizable Models"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer",
+          "Customizable Models",
+          "Priority Support"
+        ]
+      }
+    ],
+    "features": [
+      "Text-to-Image Generation",
+      "Image-to-Image Translation",
+      "Style Transfer",
+      "Customizable Models",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Art Generation",
+      "Design",
+      "Marketing",
+      "Advertising"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Ideogram",
+    "slug": "ideogram",
+    "tagline": "AI Design",
+    "description": "Ideogram is an AI-powered design tool that allows users to create stunning images, logos, and artwork. It offers features like text-to-image generation, image-to-image translation, and style transfer. Ideogram is perfect for designers, artists, and anyone looking to explore the creative possibilities of AI.",
+    "url": "https://ideogram.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Text-to-Image Generation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer",
+          "Customizable Models",
+          "Priority Support"
+        ]
+      }
+    ],
+    "features": [
+      "Text-to-Image Generation",
+      "Image-to-Image Translation",
+      "Style Transfer",
+      "Customizable Models",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Art Generation",
+      "Design",
+      "Marketing",
+      "Advertising"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Adobe Photoshop",
+      "Sketch"
+    ],
+    "avg_rating": 4.4,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Flux",
+    "slug": "flux",
+    "tagline": "AI Automation",
+    "description": "Flux is an AI-powered automation tool that allows users to automate repetitive tasks and workflows. It offers features like AI-powered chatbots, content generation, and data analysis. Flux is perfect for businesses and individuals looking to streamline their workflows and improve efficiency.",
+    "url": "https://flux.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 25,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "AI-Powered Chatbots",
+          "Content Generation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 40,
+        "interval": "month",
+        "features": [
+          "AI-Powered Chatbots",
+          "Content Generation",
+          "Data Analysis",
+          "Customizable Workflows"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 60,
+        "interval": "month",
+        "features": [
+          "AI-Powered Chatbots",
+          "Content Generation",
+          "Data Analysis",
+          "Customizable Workflows",
+          "Priority Support"
+        ]
+      }
+    ],
+    "features": [
+      "AI-Powered Chatbots",
+      "Content Generation",
+      "Data Analysis",
+      "Customizable Workflows",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Automation",
+      "Customer Service",
+      "Marketing",
+      "Sales"
+    ],
+    "platforms": [
+      "web",
+      "desktop",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Hubspot",
+      "Zendesk"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Playground AI",
+    "slug": "playground-ai",
+    "tagline": "AI Creative",
+    "description": "Playground AI is an AI-powered creative tool that allows users to generate stunning images, videos, and artwork. It offers features like text-to-image generation, image-to-image translation, and style transfer. Playground AI is perfect for artists, designers, and anyone looking to explore the creative possibilities of AI.",
+    "url": "https://playground.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Text-to-Image Generation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 40,
+        "interval": "month",
+        "features": [
+          "Text-to-Image Generation",
+          "Image-to-Image Translation",
+          "Style Transfer",
+          "Customizable Models",
+          "Priority Support"
+        ]
+      }
+    ],
+    "features": [
+      "Text-to-Image Generation",
+      "Image-to-Image Translation",
+      "Style Transfer",
+      "Customizable Models",
+      "Priority Support"
+    ],
+    "use_cases": [
+      "Art Generation",
+      "Design",
+      "Marketing",
+      "Advertising"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Adobe Photoshop",
+      "Sketch"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 1500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Photoroom",
+    "slug": "photoroom",
+    "tagline": "Remove backgrounds",
+    "description": "Photoroom is an AI-powered tool that helps remove backgrounds from images, making it easy to create professional-looking product photos. It's perfect for e-commerce businesses, photographers, and social media influencers. With Photoroom, you can quickly and easily edit your photos to make them stand out.",
+    "url": "https://photoroom.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic editing",
+          "Limited exports"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 8,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support",
+          "Team management"
+        ]
+      }
+    ],
+    "features": [
+      "Background removal",
+      "Object removal",
+      "Image editing",
+      "Batch processing",
+      "API access"
+    ],
+    "use_cases": [
+      "E-commerce product photos",
+      "Social media graphics",
+      "Product advertising",
+      "Image editing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design",
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Remove.bg",
+    "slug": "remove-bg",
+    "tagline": "Remove image backgrounds",
+    "description": "Remove.bg is a simple and easy-to-use tool that uses AI to remove backgrounds from images. It's perfect for anyone who needs to edit photos quickly and efficiently, from e-commerce businesses to social media influencers. With Remove.bg, you can create professional-looking images in just a few clicks.",
+    "url": "https://remove.bg",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic editing",
+          "Limited exports"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 9,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support",
+          "Team management"
+        ]
+      }
+    ],
+    "features": [
+      "Background removal",
+      "Object removal",
+      "Image editing",
+      "Batch processing",
+      "API access"
+    ],
+    "use_cases": [
+      "E-commerce product photos",
+      "Social media graphics",
+      "Product advertising",
+      "Image editing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 800,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Clipdrop",
+    "slug": "clipdrop",
+    "tagline": "AI-powered image editing",
+    "description": "Clipdrop is an AI-powered image editing tool that allows you to remove backgrounds, objects, and more from your images. It's perfect for anyone who needs to edit photos quickly and efficiently, from e-commerce businesses to social media influencers. With Clipdrop, you can create professional-looking images in just a few clicks.",
+    "url": "https://clipdrop.co",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic editing",
+          "Limited exports"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support",
+          "Team management"
+        ]
+      }
+    ],
+    "features": [
+      "Background removal",
+      "Object removal",
+      "Image editing",
+      "Batch processing",
+      "API access"
+    ],
+    "use_cases": [
+      "E-commerce product photos",
+      "Social media graphics",
+      "Product advertising",
+      "Image editing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce"
+    ],
+    "avg_rating": 4.4,
+    "review_count": 300,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Lensa AI",
+    "slug": "lensa-ai",
+    "tagline": "AI-powered photo editing",
+    "description": "Lensa AI is a photo editing tool that uses AI to help you create stunning images. With features like background removal, object removal, and more, Lensa AI is perfect for anyone who wants to take their photo editing to the next level. Whether you're a professional photographer or just starting out, Lensa AI has the tools you need to create amazing images.",
+    "url": "https://prisma-ai.com/lensa",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic editing",
+          "Limited exports"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 7,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Advanced editing",
+          "Unlimited exports",
+          "Priority support",
+          "Exclusive content"
+        ]
+      }
+    ],
+    "features": [
+      "Background removal",
+      "Object removal",
+      "Image editing",
+      "Batch processing",
+      "AI-powered filters"
+    ],
+    "use_cases": [
+      "Social media graphics",
+      "Product advertising",
+      "Image editing",
+      "Portrait photography"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Instagram",
+      "Facebook"
+    ],
+    "avg_rating": 4.7,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Sora",
+    "slug": "sora",
+    "tagline": "AI-powered content creation",
+    "description": "Sora is an AI-powered content creation tool that helps you generate high-quality content, including images, videos, and more. With Sora, you can create stunning visuals in just a few clicks, making it perfect for social media influencers, content creators, and businesses. Whether you're looking to create engaging social media posts or professional-looking product photos, Sora has the tools you need.",
+    "url": "https://openai.com/sora",
+    "pricing_model": "contact_sales",
+    "price_starting_at": 0,
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Custom",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "AI-powered content creation",
+          "Custom solutions",
+          "Priority support"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered content creation",
+      "Image generation",
+      "Video generation",
+      "Text-to-image"
+    ],
+    "use_cases": [
+      "Social media content creation",
+      "Product advertising",
+      "Content marketing",
+      "Image generation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Instagram",
+      "Facebook"
+    ],
+    "avg_rating": 4.8,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "HeyGen",
+    "slug": "heygen",
+    "tagline": "AI-powered video generation",
+    "description": "HeyGen is an AI-powered video generation tool that helps you create high-quality videos in just a few clicks. With HeyGen, you can generate stunning videos for social media, product advertising, and more. Whether you're a social media influencer, content creator, or business, HeyGen has the tools you need to create engaging and professional-looking videos.",
+    "url": "https://heygen.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic video generation",
+          "Limited exports"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced video generation",
+          "Unlimited exports",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Advanced video generation",
+          "Unlimited exports",
+          "Priority support",
+          "Team management"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered video generation",
+      "Text-to-video",
+      "Image-to-video",
+      "Batch processing"
+    ],
+    "use_cases": [
+      "Social media content creation",
+      "Product advertising",
+      "Video marketing",
+      "Content creation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Instagram",
+      "Facebook"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio",
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Opus Clip",
+    "slug": "opus-clip",
+    "tagline": "AI-powered video editing",
+    "description": "Opus Clip is an AI-powered video editing tool that helps you create stunning videos in just a few clicks. With Opus Clip, you can generate high-quality videos for social media, product advertising, and more. Whether you're a social media influencer, content creator, or business, Opus Clip has the tools you need to create engaging and professional-looking videos.",
+    "url": "https://opus.pro",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic video editing",
+          "Limited exports"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Advanced video editing",
+          "Unlimited exports",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 40,
+        "interval": "month",
+        "features": [
+          "Advanced video editing",
+          "Unlimited exports",
+          "Priority support",
+          "Team management"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered video editing",
+      "Text-to-video",
+      "Image-to-video",
+      "Batch processing"
+    ],
+    "use_cases": [
+      "Social media content creation",
+      "Product advertising",
+      "Video marketing",
+      "Content creation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Instagram",
+      "Facebook"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 800,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio",
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Pictory",
+    "slug": "pictory",
+    "tagline": "AI-powered video creation",
+    "description": "Pictory is an AI-powered video creation tool that helps you create stunning videos in just a few clicks. With Pictory, you can generate high-quality videos for social media, product advertising, and more. Whether you're a social media influencer, content creator, or business, Pictory has the tools you need to create engaging and professional-looking videos.",
+    "url": "https://pictory.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic video creation",
+          "Limited exports"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Advanced video creation",
+          "Unlimited exports",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 60,
+        "interval": "month",
+        "features": [
+          "Advanced video creation",
+          "Unlimited exports",
+          "Priority support",
+          "Team management"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered video creation",
+      "Text-to-video",
+      "Image-to-video",
+      "Batch processing"
+    ],
+    "use_cases": [
+      "Social media content creation",
+      "Product advertising",
+      "Video marketing",
+      "Content creation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Instagram",
+      "Facebook"
+    ],
+    "avg_rating": 4.7,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Murf AI",
+    "slug": "murf-ai",
+    "tagline": "AI Voiceovers",
+    "description": "Murf AI is a text-to-speech platform that uses AI to create realistic voiceovers for videos, podcasts, and other media. It's designed for content creators, marketers, and educators who want to add a professional touch to their audio content. With Murf AI, you can create custom voiceovers in minutes, without the need for expensive recording equipment or voice actors.",
+    "url": "https://murf.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited voiceovers",
+          "Basic editing"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "Unlimited voiceovers",
+          "Advanced editing",
+          "Custom voices"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Unlimited voiceovers",
+          "Advanced editing",
+          "Custom voices",
+          "Priority support"
+        ]
+      }
+    ],
+    "features": [
+      "Text-to-speech",
+      "Custom voices",
+      "Advanced editing",
+      "Unlimited voiceovers",
+      "Priority support",
+      "Multi-language support"
+    ],
+    "use_cases": [
+      "Podcast voiceovers",
+      "Video narration",
+      "E-learning content",
+      "Marketing videos",
+      "Audiobooks"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "YouTube",
+      "Vimeo",
+      "Podbean"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Suno",
+    "slug": "suno",
+    "tagline": "AI Writing Assistant",
+    "description": "Suno is an AI-powered writing assistant that helps you generate high-quality content, from blog posts to social media updates. It's designed for writers, marketers, and entrepreneurs who want to save time and improve their writing skills. With Suno, you can get suggestions for topics, outlines, and even entire drafts of content.",
+    "url": "https://suno.com",
+    "pricing_model": "paid",
+    "price_starting_at": 29,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "Content suggestions",
+          "Topic research"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Content suggestions",
+          "Topic research",
+          "Outline generation",
+          "Draft writing"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Content suggestions",
+          "Topic research",
+          "Outline generation",
+          "Draft writing",
+          "Custom support"
+        ]
+      }
+    ],
+    "features": [
+      "Content suggestions",
+      "Topic research",
+      "Outline generation",
+      "Draft writing",
+      "Custom support"
+    ],
+    "use_cases": [
+      "Blog writing",
+      "Social media management",
+      "Content marketing",
+      "Copywriting",
+      "Research assistance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "WordPress",
+      "Medium",
+      "Google Docs"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "AIVA",
+    "slug": "aiva",
+    "tagline": "AI Music Composition",
+    "description": "AIVA is an AI-powered music composition platform that creates custom soundtracks for videos, ads, and other media. It's designed for filmmakers, advertisers, and content creators who want to add a unique and professional soundtrack to their projects. With AIVA, you can generate high-quality music tracks in minutes, without the need for expensive recording equipment or music composition skills.",
+    "url": "https://aiva.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 49,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Limited music tracks",
+          "Basic customization"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Unlimited music tracks",
+          "Advanced customization",
+          "Custom composition"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 199,
+        "interval": "month",
+        "features": [
+          "Unlimited music tracks",
+          "Advanced customization",
+          "Custom composition",
+          "Priority support"
+        ]
+      }
+    ],
+    "features": [
+      "AI music composition",
+      "Custom soundtracks",
+      "Unlimited music tracks",
+      "Advanced customization",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Video soundtracks",
+      "Ad music",
+      "Film scoring",
+      "Game development",
+      "Podcast themes"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "YouTube",
+      "Vimeo",
+      "Adobe Premiere"
+    ],
+    "avg_rating": 4.8,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Kapwing",
+    "slug": "kapwing",
+    "tagline": "AI Video Editing",
+    "description": "Kapwing is an AI-powered video editing platform that helps you create professional-looking videos, from social media clips to marketing ads. It's designed for marketers, entrepreneurs, and content creators who want to save time and improve their video editing skills. With Kapwing, you can get suggestions for video templates, editing styles, and even entire video drafts.",
+    "url": "https://kapwing.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited video editing",
+          "Basic templates"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 17,
+        "interval": "month",
+        "features": [
+          "Unlimited video editing",
+          "Advanced templates",
+          "Custom branding"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "Unlimited video editing",
+          "Advanced templates",
+          "Custom branding",
+          "Collaboration tools"
+        ]
+      }
+    ],
+    "features": [
+      "AI video editing",
+      "Custom templates",
+      "Unlimited video editing",
+      "Advanced templates",
+      "Collaboration tools"
+    ],
+    "use_cases": [
+      "Social media videos",
+      "Marketing ads",
+      "Explainer videos",
+      "Product demos",
+      "Event videos"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "YouTube",
+      "Vimeo",
+      "Facebook"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Captions",
+    "slug": "captions-ai",
+    "tagline": "AI Captioning",
+    "description": "Captions is an AI-powered captioning platform that helps you add accurate and timely captions to your videos, podcasts, and other media. It's designed for content creators, marketers, and educators who want to make their audio-visual content more accessible and engaging. With Captions, you can generate high-quality captions in minutes, without the need for expensive transcription services or manual captioning.",
+    "url": "https://captions.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 10,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Limited captioning",
+          "Basic editing"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Unlimited captioning",
+          "Advanced editing",
+          "Custom formatting"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Unlimited captioning",
+          "Advanced editing",
+          "Custom formatting",
+          "Priority support"
+        ]
+      }
+    ],
+    "features": [
+      "AI captioning",
+      "Unlimited captioning",
+      "Advanced editing",
+      "Custom formatting",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Video captioning",
+      "Podcast transcription",
+      "Audiobook captioning",
+      "E-learning content",
+      "Accessibility services"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "YouTube",
+      "Vimeo",
+      "Podbean"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Luma AI",
+    "slug": "luma-ai",
+    "tagline": "AI Image Editing",
+    "description": "Luma AI is an AI-powered image editing platform that helps you create stunning visuals, from social media posts to marketing ads. It's designed for marketers, entrepreneurs, and content creators who want to save time and improve their image editing skills. With Luma AI, you can get suggestions for image templates, editing styles, and even entire image drafts.",
+    "url": "https://lumalabs.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited image editing",
+          "Basic templates"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 19,
+        "interval": "month",
+        "features": [
+          "Unlimited image editing",
+          "Advanced templates",
+          "Custom branding"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 39,
+        "interval": "month",
+        "features": [
+          "Unlimited image editing",
+          "Advanced templates",
+          "Custom branding",
+          "Collaboration tools"
+        ]
+      }
+    ],
+    "features": [
+      "AI image editing",
+      "Custom templates",
+      "Unlimited image editing",
+      "Advanced templates",
+      "Collaboration tools"
+    ],
+    "use_cases": [
+      "Social media visuals",
+      "Marketing ads",
+      "Product photography",
+      "Event graphics",
+      "Web design"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Instagram",
+      "Facebook",
+      "Adobe Creative Cloud"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "video-audio",
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Replit AI",
+    "slug": "replit-ai",
+    "tagline": "AI Coding Assistant",
+    "description": "Replit AI is an AI-powered coding assistant that helps you write, debug, and optimize your code, from simple scripts to complex applications. It's designed for developers, programmers, and students who want to improve their coding skills and productivity. With Replit AI, you can get suggestions for code completion, error detection, and even entire code drafts.",
+    "url": "https://replit.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited coding assistance",
+          "Basic templates"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Unlimited coding assistance",
+          "Advanced templates",
+          "Custom branding"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "Unlimited coding assistance",
+          "Advanced templates",
+          "Custom branding",
+          "Collaboration tools"
+        ]
+      }
+    ],
+    "features": [
+      "AI coding assistance",
+      "Custom templates",
+      "Unlimited coding assistance",
+      "Advanced templates",
+      "Collaboration tools"
+    ],
+    "use_cases": [
+      "Code completion",
+      "Error detection",
+      "Code optimization",
+      "Project management",
+      "Team collaboration"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab",
+      "VS Code"
+    ],
+    "avg_rating": 4.8,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Tabnine",
+    "slug": "tabnine",
+    "tagline": "AI Code Completion",
+    "description": "Tabnine is an AI-powered code completion platform that helps you write code faster and more accurately, from simple scripts to complex applications. It's designed for developers, programmers, and students who want to improve their coding skills and productivity. With Tabnine, you can get suggestions for code completion, error detection, and even entire code drafts.",
+    "url": "https://tabnine.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Limited code completion",
+          "Basic templates"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 12,
+        "interval": "month",
+        "features": [
+          "Unlimited code completion",
+          "Advanced templates",
+          "Custom branding"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Unlimited code completion",
+          "Advanced templates",
+          "Custom branding",
+          "Collaboration tools"
+        ]
+      }
+    ],
+    "features": [
+      "AI code completion",
+      "Custom templates",
+      "Unlimited code completion",
+      "Advanced templates",
+      "Collaboration tools"
+    ],
+    "use_cases": [
+      "Code completion",
+      "Error detection",
+      "Code optimization",
+      "Project management",
+      "Team collaboration"
+    ],
+    "platforms": [
+      "web",
+      "desktop",
+      "vscode"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab",
+      "VS Code"
+    ],
+    "avg_rating": 4.9,
+    "review_count": 1500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Codeium",
+    "slug": "codeium",
+    "tagline": "AI Code Assistant",
+    "description": "Codeium is an AI-powered coding assistant that helps developers write code faster and more efficiently. It's designed for professional developers and teams, and it's especially useful for those who want to automate repetitive coding tasks. With Codeium, you can focus on the creative aspects of coding and let the AI handle the rest.",
+    "url": "https://codeium.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic Code Completion",
+          "Code Snippets"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced Code Completion",
+          "Code Review",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "All Pro Features",
+          "Team Collaboration",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Code Completion",
+      "Code Snippets",
+      "Code Review",
+      "Priority Support",
+      "Team Collaboration",
+      "Custom Support"
+    ],
+    "use_cases": [
+      "Web Development",
+      "Mobile App Development",
+      "Backend Development",
+      "Frontend Development"
+    ],
+    "platforms": [
+      "web",
+      "vscode"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Amazon CodeWhisperer",
+    "slug": "amazon-codewhisperer",
+    "tagline": "AI Coding Companion",
+    "description": "Amazon CodeWhisperer is a machine learning-powered coding companion that provides developers with code suggestions and completions in real-time. It's designed to help developers write code more efficiently and effectively, and it's especially useful for those who are new to coding or working on complex projects. With CodeWhisperer, you can get instant feedback and guidance on your code.",
+    "url": "https://aws.amazon.com/codewhisperer",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic Code Completion",
+          "Code Snippets"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "Advanced Code Completion",
+          "Code Review",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "All Pro Features",
+          "Custom Support",
+          "Single Sign-On"
+        ]
+      }
+    ],
+    "features": [
+      "Code Completion",
+      "Code Snippets",
+      "Code Review",
+      "Priority Support",
+      "Custom Support",
+      "Single Sign-On"
+    ],
+    "use_cases": [
+      "Cloud Development",
+      "Web Development",
+      "Mobile App Development",
+      "Backend Development"
+    ],
+    "platforms": [
+      "web",
+      "vscode",
+      "api"
+    ],
+    "integrations": [
+      "AWS",
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Devin",
+    "slug": "devin",
+    "tagline": "AI Code Review",
+    "description": "Devin is an AI-powered code review tool that helps developers identify and fix errors in their code. It's designed for professional developers and teams, and it's especially useful for those who want to ensure the quality and reliability of their code. With Devin, you can get instant feedback on your code and improve your coding skills.",
+    "url": "https://devin.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 10,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Code Review",
+          "Error Detection"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced Code Review",
+          "Code Optimization",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "All Pro Features",
+          "Team Collaboration",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Code Review",
+      "Error Detection",
+      "Code Optimization",
+      "Priority Support",
+      "Team Collaboration",
+      "Custom Support"
+    ],
+    "use_cases": [
+      "Code Quality",
+      "Code Security",
+      "Code Optimization",
+      "Team Collaboration"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4.1,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "v0 by Vercel",
+    "slug": "v0",
+    "tagline": "AI Code Generation",
+    "description": "v0 by Vercel is an AI-powered code generation tool that helps developers create high-quality code quickly and efficiently. It's designed for professional developers and teams, and it's especially useful for those who want to automate repetitive coding tasks. With v0, you can generate code for various use cases, including web development and mobile app development.",
+    "url": "https://v0.dev",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic Code Generation",
+          "Limited Templates"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced Code Generation",
+          "Unlimited Templates",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 100,
+        "interval": "month",
+        "features": [
+          "All Pro Features",
+          "Custom Templates",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Code Generation",
+      "Templates",
+      "Priority Support",
+      "Custom Templates",
+      "Dedicated Support"
+    ],
+    "use_cases": [
+      "Web Development",
+      "Mobile App Development",
+      "Backend Development",
+      "Frontend Development"
+    ],
+    "platforms": [
+      "web",
+      "vscode"
+    ],
+    "integrations": [
+      "Vercel",
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development",
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Bolt",
+    "slug": "bolt",
+    "tagline": "AI Code Assistant",
+    "description": "Bolt is an AI-powered code assistant that helps developers write code faster and more efficiently. It's designed for professional developers and teams, and it's especially useful for those who want to automate repetitive coding tasks. With Bolt, you can get instant feedback and guidance on your code.",
+    "url": "https://bolt.new",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic Code Completion",
+          "Code Snippets"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Advanced Code Completion",
+          "Code Review",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "All Pro Features",
+          "Team Collaboration",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Code Completion",
+      "Code Snippets",
+      "Code Review",
+      "Priority Support",
+      "Team Collaboration",
+      "Custom Support"
+    ],
+    "use_cases": [
+      "Web Development",
+      "Mobile App Development",
+      "Backend Development",
+      "Frontend Development"
+    ],
+    "platforms": [
+      "web",
+      "vscode"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Windsurf",
+    "slug": "windsurf",
+    "tagline": "AI Code Optimization",
+    "description": "Windsurf is an AI-powered code optimization tool that helps developers improve the performance and efficiency of their code. It's designed for professional developers and teams, and it's especially useful for those who want to optimize their code for better performance. With Windsurf, you can get instant feedback and guidance on your code.",
+    "url": "https://codeium.com/windsurf",
+    "pricing_model": "paid",
+    "price_starting_at": 20,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Code Optimization",
+          "Performance Analysis"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Advanced Code Optimization",
+          "Custom Support",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 100,
+        "interval": "month",
+        "features": [
+          "All Pro Features",
+          "Dedicated Support",
+          "Custom Solutions"
+        ]
+      }
+    ],
+    "features": [
+      "Code Optimization",
+      "Performance Analysis",
+      "Custom Support",
+      "Priority Support",
+      "Dedicated Support",
+      "Custom Solutions"
+    ],
+    "use_cases": [
+      "Code Optimization",
+      "Performance Improvement",
+      "Code Quality",
+      "Team Collaboration"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Codeium",
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "slug": "sourcegraph-cody",
+    "tagline": "AI Code Assistant",
+    "description": "Sourcegraph Cody is an AI-powered code assistant that helps developers write code faster and more efficiently. It's designed for professional developers and teams, and it's especially useful for those who want to automate repetitive coding tasks. With Cody, you can get instant feedback and guidance on your code.",
+    "url": "https://sourcegraph.com/cody",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic Code Completion",
+          "Code Snippets"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Advanced Code Completion",
+          "Code Review",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "All Pro Features",
+          "Team Collaboration",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Code Completion",
+      "Code Snippets",
+      "Code Review",
+      "Priority Support",
+      "Team Collaboration",
+      "Custom Support"
+    ],
+    "use_cases": [
+      "Web Development",
+      "Mobile App Development",
+      "Backend Development",
+      "Frontend Development"
+    ],
+    "platforms": [
+      "web",
+      "vscode"
+    ],
+    "integrations": [
+      "Sourcegraph",
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4.4,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Claude Code",
+    "slug": "claude-code",
+    "tagline": "AI Code Generation",
+    "description": "Claude Code is an AI-powered code generation tool that helps developers create high-quality code quickly and efficiently. It's designed for professional developers and teams, and it's especially useful for those who want to automate repetitive coding tasks. With Claude Code, you can generate code for various use cases, including web development and mobile app development.",
+    "url": "https://docs.anthropic.com/en/docs/claude-code",
+    "pricing_model": "contact_sales",
+    "price_starting_at": 0,
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Custom",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Custom Code Generation",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Code Generation",
+      "Custom Support",
+      "Dedicated Support"
+    ],
+    "use_cases": [
+      "Web Development",
+      "Mobile App Development",
+      "Backend Development",
+      "Frontend Development"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Anthropic",
+      "GitHub",
+      "GitLab"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "coding-development"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Surfer SEO",
+    "slug": "surfer-seo",
+    "tagline": "Optimize content",
+    "description": "Surfer SEO is an AI tool that helps you optimize your content for better search engine rankings. It provides suggestions for keywords, headings, and other elements to improve your content's visibility. With Surfer SEO, you can create high-quality, SEO-friendly content that drives more traffic to your website.",
+    "url": "https://surferseo.com",
+    "pricing_model": "paid",
+    "price_starting_at": 59,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 59,
+        "interval": "month",
+        "features": [
+          "Content audit",
+          "Keyword research",
+          "SEO suggestions"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Content audit",
+          "Keyword research",
+          "SEO suggestions",
+          "Technical SEO audit",
+          "Backlink analysis"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 199,
+        "interval": "month",
+        "features": [
+          "Content audit",
+          "Keyword research",
+          "SEO suggestions",
+          "Technical SEO audit",
+          "Backlink analysis",
+          "Custom reporting",
+          "API access"
+        ]
+      }
+    ],
+    "features": [
+      "Content audit",
+      "Keyword research",
+      "SEO suggestions",
+      "Technical SEO audit",
+      "Backlink analysis",
+      "Custom reporting",
+      "API access"
+    ],
+    "use_cases": [
+      "SEO optimization",
+      "Content creation",
+      "Keyword research",
+      "Technical SEO audit"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Google Search Console"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing",
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Semrush AI",
+    "slug": "semrush-ai",
+    "tagline": "AI for SEO",
+    "description": "Semrush AI is a suite of AI-powered tools that help you with SEO, content creation, and digital marketing. It provides features like keyword research, technical SEO audit, and content optimization to improve your online presence. With Semrush AI, you can streamline your marketing efforts and get better results.",
+    "url": "https://semrush.com",
+    "pricing_model": "paid",
+    "price_starting_at": 119,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Pro",
+        "price": 119,
+        "interval": "month",
+        "features": [
+          "Keyword research",
+          "Technical SEO audit",
+          "Content optimization",
+          "Competitor analysis"
+        ]
+      },
+      {
+        "name": "Guru",
+        "price": 229,
+        "interval": "month",
+        "features": [
+          "Keyword research",
+          "Technical SEO audit",
+          "Content optimization",
+          "Competitor analysis",
+          "Historical data",
+          "Content marketing platform"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 449,
+        "interval": "month",
+        "features": [
+          "Keyword research",
+          "Technical SEO audit",
+          "Content optimization",
+          "Competitor analysis",
+          "Historical data",
+          "Content marketing platform",
+          "API access",
+          "Custom reporting"
+        ]
+      }
+    ],
+    "features": [
+      "Keyword research",
+      "Technical SEO audit",
+      "Content optimization",
+      "Competitor analysis",
+      "Historical data",
+      "Content marketing platform",
+      "API access",
+      "Custom reporting"
+    ],
+    "use_cases": [
+      "SEO optimization",
+      "Content creation",
+      "Competitor analysis",
+      "Digital marketing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Google Search Console",
+      "Facebook Ads"
+    ],
+    "avg_rating": 4.7,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "AdCreative.ai",
+    "slug": "adcreative-ai",
+    "tagline": "Ad creative AI",
+    "description": "AdCreative.ai is an AI-powered platform that helps you create high-performing ad creatives for social media and other channels. It provides features like ad design, copywriting, and optimization to improve your ad campaigns. With AdCreative.ai, you can create effective ad creatives that drive more conversions and sales.",
+    "url": "https://adcreative.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 99,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Ad design",
+          "Copywriting",
+          "Optimization"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 299,
+        "interval": "month",
+        "features": [
+          "Ad design",
+          "Copywriting",
+          "Optimization",
+          "Custom branding",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 999,
+        "interval": "month",
+        "features": [
+          "Ad design",
+          "Copywriting",
+          "Optimization",
+          "Custom branding",
+          "Priority support",
+          "Dedicated account manager",
+          "Custom solutions"
+        ]
+      }
+    ],
+    "features": [
+      "Ad design",
+      "Copywriting",
+      "Optimization",
+      "Custom branding",
+      "Priority support",
+      "Dedicated account manager",
+      "Custom solutions"
+    ],
+    "use_cases": [
+      "Social media advertising",
+      "Ad creative optimization",
+      "Copywriting",
+      "Brand management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Facebook Ads",
+      "Google Ads",
+      "Instagram Ads"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing",
+      "image-design"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Predis.ai",
+    "slug": "predis-ai",
+    "tagline": "Predictive AI",
+    "description": "Predis.ai is a predictive AI platform that helps you forecast and optimize your business outcomes. It provides features like predictive modeling, data analysis, and decision-making to improve your business performance. With Predis.ai, you can make data-driven decisions and drive more growth.",
+    "url": "https://predis.ai",
+    "pricing_model": "contact_sales",
+    "price_starting_at": 0,
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Custom",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Predictive modeling",
+          "Data analysis",
+          "Decision-making",
+          "Custom solutions"
+        ]
+      }
+    ],
+    "features": [
+      "Predictive modeling",
+      "Data analysis",
+      "Decision-making",
+      "Custom solutions"
+    ],
+    "use_cases": [
+      "Predictive analytics",
+      "Business forecasting",
+      "Decision-making",
+      "Growth optimization"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Salesforce",
+      "HubSpot"
+    ],
+    "avg_rating": 4.8,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Flick",
+    "slug": "flick",
+    "tagline": "Social media AI",
+    "description": "Flick is a social media management platform that uses AI to help you create and schedule high-performing content. It provides features like content creation, scheduling, and optimization to improve your social media presence. With Flick, you can create engaging content that drives more likes, shares, and followers.",
+    "url": "https://flick.social",
+    "pricing_model": "paid",
+    "price_starting_at": 24,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 24,
+        "interval": "month",
+        "features": [
+          "Content creation",
+          "Scheduling",
+          "Optimization"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Content creation",
+          "Scheduling",
+          "Optimization",
+          "Custom branding",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Content creation",
+          "Scheduling",
+          "Optimization",
+          "Custom branding",
+          "Priority support",
+          "Dedicated account manager",
+          "Custom solutions"
+        ]
+      }
+    ],
+    "features": [
+      "Content creation",
+      "Scheduling",
+      "Optimization",
+      "Custom branding",
+      "Priority support",
+      "Dedicated account manager",
+      "Custom solutions"
+    ],
+    "use_cases": [
+      "Social media management",
+      "Content creation",
+      "Scheduling",
+      "Optimization"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Facebook",
+      "Instagram",
+      "Twitter",
+      "LinkedIn"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Brandwatch",
+    "slug": "brandwatch",
+    "tagline": "Social media monitoring",
+    "description": "Brandwatch is a social media monitoring platform that helps you track and analyze your brand's online presence. It provides features like social media listening, sentiment analysis, and influencer identification to improve your brand's reputation and engagement. With Brandwatch, you can stay on top of your brand's online conversations and make data-driven decisions.",
+    "url": "https://brandwatch.com",
+    "pricing_model": "paid",
+    "price_starting_at": 500,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Pro",
+        "price": 500,
+        "interval": "month",
+        "features": [
+          "Social media listening",
+          "Sentiment analysis",
+          "Influencer identification"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": 1000,
+        "interval": "month",
+        "features": [
+          "Social media listening",
+          "Sentiment analysis",
+          "Influencer identification",
+          "Custom reporting",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 2000,
+        "interval": "month",
+        "features": [
+          "Social media listening",
+          "Sentiment analysis",
+          "Influencer identification",
+          "Custom reporting",
+          "Priority support",
+          "Dedicated account manager",
+          "Custom solutions"
+        ]
+      }
+    ],
+    "features": [
+      "Social media listening",
+      "Sentiment analysis",
+      "Influencer identification",
+      "Custom reporting",
+      "Priority support",
+      "Dedicated account manager",
+      "Custom solutions"
+    ],
+    "use_cases": [
+      "Social media monitoring",
+      "Reputation management",
+      "Influencer marketing",
+      "Brand management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Facebook",
+      "Instagram",
+      "Twitter",
+      "LinkedIn"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing",
+      "data-analytics"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Lately",
+    "slug": "lately-ai",
+    "tagline": "AI for content",
+    "description": "Lately is an AI-powered content generation platform that helps you create high-quality content for social media and other channels. It provides features like content creation, optimization, and distribution to improve your content's performance. With Lately, you can create engaging content that drives more likes, shares, and followers.",
+    "url": "https://lately.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 99,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Content creation",
+          "Optimization",
+          "Distribution"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 299,
+        "interval": "month",
+        "features": [
+          "Content creation",
+          "Optimization",
+          "Distribution",
+          "Custom branding",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 999,
+        "interval": "month",
+        "features": [
+          "Content creation",
+          "Optimization",
+          "Distribution",
+          "Custom branding",
+          "Priority support",
+          "Dedicated account manager",
+          "Custom solutions"
+        ]
+      }
+    ],
+    "features": [
+      "Content creation",
+      "Optimization",
+      "Distribution",
+      "Custom branding",
+      "Priority support",
+      "Dedicated account manager",
+      "Custom solutions"
+    ],
+    "use_cases": [
+      "Content creation",
+      "Social media management",
+      "Content optimization",
+      "Distribution"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Facebook",
+      "Instagram",
+      "Twitter",
+      "LinkedIn"
+    ],
+    "avg_rating": 4.7,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Phrasee",
+    "slug": "phrasee",
+    "tagline": "AI for marketing",
+    "description": "Phrasee is an AI-powered marketing platform that helps you create high-performing marketing campaigns for email, social media, and other channels. It provides features like content creation, optimization, and personalization to improve your marketing efforts. With Phrasee, you can create engaging marketing campaigns that drive more conversions and sales.",
+    "url": "https://phrasee.co",
+    "pricing_model": "contact_sales",
+    "price_starting_at": 0,
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Custom",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Content creation",
+          "Optimization",
+          "Personalization",
+          "Custom solutions"
+        ]
+      }
+    ],
+    "features": [
+      "Content creation",
+      "Optimization",
+      "Personalization",
+      "Custom solutions"
+    ],
+    "use_cases": [
+      "Marketing automation",
+      "Email marketing",
+      "Social media marketing",
+      "Personalization"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Marketo"
+    ],
+    "avg_rating": 4.8,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "marketing"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Mem",
+    "slug": "mem-ai",
+    "tagline": "AI notes",
+    "description": "Mem is an AI-powered note-taking app that helps you organize and recall information. It's designed for individuals and teams who want to boost their productivity and knowledge retention. With Mem, you can create notes, connect ideas, and collaborate with others in a seamless way.",
+    "url": "https://mem.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic note-taking",
+          "Limited collaboration"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Advanced note-taking",
+          "Unlimited collaboration",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered note-taking",
+      "Collaboration tools",
+      "Knowledge graph",
+      "Customizable interface",
+      "Mobile app",
+      "Web clipper",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Personal knowledge management",
+      "Team collaboration",
+      "Research and study",
+      "Note-taking and organization",
+      "Idea generation"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox",
+      "Slack"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Reclaim AI",
+    "slug": "reclaim-ai",
+    "tagline": "Automate tasks",
+    "description": "Reclaim AI is a time management tool that uses artificial intelligence to automate routine tasks and help you prioritize your time. It's designed for busy professionals who want to maximize their productivity and reduce stress. With Reclaim AI, you can schedule tasks, set reminders, and focus on high-priority work.",
+    "url": "https://reclaim.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic task automation",
+          "Limited scheduling"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Advanced task automation",
+          "Unlimited scheduling",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "Task automation",
+      "Scheduling",
+      "Time blocking",
+      "Customizable interface",
+      "Mobile app",
+      "Web integration",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Time management",
+      "Task automation",
+      "Scheduling",
+      "Productivity optimization",
+      "Stress reduction"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Calendar",
+      "Microsoft Outlook",
+      "Slack"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Taskade",
+    "slug": "taskade",
+    "tagline": "Team productivity",
+    "description": "Taskade is a collaborative task management tool that helps teams work together more efficiently. It's designed for teams of all sizes who want to streamline their workflow, assign tasks, and track progress. With Taskade, you can create tasks, set deadlines, and collaborate with team members in real-time.",
+    "url": "https://taskade.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic task management",
+          "Limited collaboration"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Advanced task management",
+          "Unlimited collaboration",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "Task management",
+      "Collaboration tools",
+      "Real-time updates",
+      "Customizable interface",
+      "Mobile app",
+      "Web integration",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Team collaboration",
+      "Task management",
+      "Project planning",
+      "Workflow optimization",
+      "Productivity enhancement"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox",
+      "Slack"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 300,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Fireflies.ai",
+    "slug": "fireflies-ai",
+    "tagline": "Meeting notes",
+    "description": "Fireflies.ai is an AI-powered meeting note-taking tool that helps you capture and summarize important discussions. It's designed for individuals and teams who want to stay organized, recall key points, and follow up on action items. With Fireflies.ai, you can record meetings, generate notes, and share them with others.",
+    "url": "https://fireflies.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic note-taking",
+          "Limited recording"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced note-taking",
+          "Unlimited recording",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 40,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered note-taking",
+      "Meeting recording",
+      "Note summarization",
+      "Customizable interface",
+      "Mobile app",
+      "Web integration",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Meeting note-taking",
+      "Discussion summarization",
+      "Action item tracking",
+      "Team collaboration",
+      "Productivity enhancement"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Calendar",
+      "Microsoft Outlook",
+      "Slack"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Krisp",
+    "slug": "krisp-ai",
+    "tagline": "Noise cancellation",
+    "description": "Krisp is an AI-powered noise cancellation tool that helps you communicate more effectively in noisy environments. It's designed for individuals and teams who want to improve their online meetings, voice calls, and video conferencing. With Krisp, you can remove background noise, enhance audio quality, and focus on the conversation.",
+    "url": "https://krisp.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic noise cancellation",
+          "Limited minutes"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Advanced noise cancellation",
+          "Unlimited minutes",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered noise cancellation",
+      "Audio enhancement",
+      "Customizable interface",
+      "Mobile app",
+      "Web integration",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Noise cancellation",
+      "Audio enhancement",
+      "Online meetings",
+      "Voice calls",
+      "Video conferencing"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Zoom",
+      "Google Meet",
+      "Skype"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity",
+      "video-audio"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Clockwise",
+    "slug": "clockwise",
+    "tagline": "Schedule optimization",
+    "description": "Clockwise is a schedule optimization tool that helps you manage your time more efficiently. It's designed for individuals and teams who want to prioritize their tasks, avoid conflicts, and minimize distractions. With Clockwise, you can schedule tasks, set reminders, and optimize your daily routine.",
+    "url": "https://getclockwise.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic scheduling",
+          "Limited optimization"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Advanced scheduling",
+          "Unlimited optimization",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "Schedule optimization",
+      "Task management",
+      "Customizable interface",
+      "Mobile app",
+      "Web integration",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Schedule optimization",
+      "Task management",
+      "Time management",
+      "Productivity enhancement",
+      "Stress reduction"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Calendar",
+      "Microsoft Outlook",
+      "Slack"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Motion",
+    "slug": "motion",
+    "tagline": "Task automation",
+    "description": "Motion is a task automation tool that helps you streamline your workflow and reduce manual tasks. It's designed for individuals and teams who want to automate repetitive tasks, enhance productivity, and focus on high-priority work. With Motion, you can create custom workflows, automate tasks, and integrate with other tools.",
+    "url": "https://usemotion.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic task automation",
+          "Limited workflows"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced task automation",
+          "Unlimited workflows",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 40,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "Task automation",
+      "Custom workflows",
+      "Integration with other tools",
+      "Customizable interface",
+      "Mobile app",
+      "Web integration",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Task automation",
+      "Workflow optimization",
+      "Productivity enhancement",
+      "Time management",
+      "Stress reduction"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox",
+      "Slack"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Lex",
+    "slug": "lex",
+    "tagline": "AI writing",
+    "description": "Lex is an AI-powered writing tool that helps you generate high-quality content more efficiently. It's designed for writers, marketers, and businesses who want to create engaging content, improve their writing skills, and save time. With Lex, you can generate ideas, outline content, and refine your writing.",
+    "url": "https://lex.page",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic writing assistance",
+          "Limited generation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Advanced writing assistance",
+          "Unlimited generation",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Pro features",
+          "Team management",
+          "Custom branding"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered writing assistance",
+      "Content generation",
+      "Customizable interface",
+      "Mobile app",
+      "Web integration",
+      "Priority support"
+    ],
+    "use_cases": [
+      "Content generation",
+      "Writing assistance",
+      "Content optimization",
+      "Productivity enhancement",
+      "Time management"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word",
+      "Slack"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "business-productivity",
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Elicit",
+    "slug": "elicit",
+    "tagline": "AI Research Assistant",
+    "description": "Elicit is an AI research assistant that helps you find and summarize research papers, and also assists in generating ideas and outlines for your own research projects. It's designed for researchers, students, and professionals who need to stay up-to-date with the latest research in their field. Elicit's AI-powered tools make it easy to discover new papers, track trends, and collaborate with others.",
+    "url": "https://elicit.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Paper summaries",
+          "Research suggestions"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Advanced search",
+          "Collaboration tools",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "All Pro features",
+          "Team management",
+          "Custom support"
+        ]
+      }
+    ],
+    "features": [
+      "Paper summaries",
+      "Research suggestions",
+      "Advanced search",
+      "Collaboration tools",
+      "Priority support",
+      "Team management",
+      "Custom support"
+    ],
+    "use_cases": [
+      "Research paper discovery",
+      "Idea generation",
+      "Research collaboration",
+      "Staying up-to-date with latest research"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Scholar",
+      "arXiv"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Consensus",
+    "slug": "consensus",
+    "tagline": "AI Debate Assistant",
+    "description": "Consensus is an AI-powered debate assistant that helps you research, organize, and argue your points more effectively. It's designed for debaters, students, and professionals who want to improve their critical thinking and argumentation skills. Consensus provides AI-generated research suggestions, argument maps, and feedback to help you build stronger arguments.",
+    "url": "https://consensus.app",
+    "pricing_model": "paid",
+    "price_starting_at": 10,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Monthly",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "AI research suggestions",
+          "Argument maps",
+          "Feedback"
+        ]
+      },
+      {
+        "name": "Yearly",
+        "price": 100,
+        "interval": "year",
+        "features": [
+          "All Monthly features",
+          "Priority support",
+          "Custom coaching"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 200,
+        "interval": "year",
+        "features": [
+          "All Yearly features",
+          "Team management",
+          "Custom support"
+        ]
+      }
+    ],
+    "features": [
+      "AI research suggestions",
+      "Argument maps",
+      "Feedback",
+      "Priority support",
+      "Custom coaching",
+      "Team management"
+    ],
+    "use_cases": [
+      "Debate research",
+      "Argumentation skills",
+      "Critical thinking",
+      "Public speaking"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Scholarcy",
+    "slug": "scholarcy",
+    "tagline": "AI Research Summarizer",
+    "description": "Scholarcy is an AI-powered research summarizer that helps you quickly understand complex research papers and articles. It's designed for researchers, students, and professionals who need to stay up-to-date with the latest research in their field. Scholarcy's AI tools summarize papers, extract key points, and provide recommendations for further reading.",
+    "url": "https://scholarcy.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Paper summaries",
+          "Key point extraction"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Advanced summarization",
+          "Recommendations",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 30,
+        "interval": "month",
+        "features": [
+          "All Pro features",
+          "Team management",
+          "Custom support"
+        ]
+      }
+    ],
+    "features": [
+      "Paper summaries",
+      "Key point extraction",
+      "Advanced summarization",
+      "Recommendations",
+      "Priority support",
+      "Team management"
+    ],
+    "use_cases": [
+      "Research paper summarization",
+      "Key point extraction",
+      "Recommendations for further reading"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Scholar",
+      "PubMed"
+    ],
+    "avg_rating": 4.1,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Socratic by Google",
+    "slug": "socratic",
+    "tagline": "AI Homework Helper",
+    "description": "Socratic by Google is an AI-powered homework helper that provides step-by-step solutions to math and science problems. It's designed for students who need help with their homework and want to understand the concepts behind the problems. Socratic's AI tools provide detailed explanations, graphs, and videos to help students learn and understand complex concepts.",
+    "url": "https://socratic.org",
+    "pricing_model": "free",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Step-by-step solutions",
+          "Detailed explanations",
+          "Graphs and videos"
+        ]
+      }
+    ],
+    "features": [
+      "Step-by-step solutions",
+      "Detailed explanations",
+      "Graphs and videos"
+    ],
+    "use_cases": [
+      "Math homework help",
+      "Science homework help",
+      "Concept understanding"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Google Classroom"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": true,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Khanmigo",
+    "slug": "khanmigo",
+    "tagline": "AI Learning Companion",
+    "description": "Khanmigo is an AI-powered learning companion that provides personalized learning paths and recommendations for Khan Academy courses. It's designed for students who want to learn at their own pace and need help staying on track. Khanmigo's AI tools provide real-time feedback, suggestions for improvement, and encouragement to help students stay motivated.",
+    "url": "https://khanacademy.org/khan-labs",
+    "pricing_model": "free",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Personalized learning paths",
+          "Real-time feedback",
+          "Suggestions for improvement"
+        ]
+      }
+    ],
+    "features": [
+      "Personalized learning paths",
+      "Real-time feedback",
+      "Suggestions for improvement"
+    ],
+    "use_cases": [
+      "Personalized learning",
+      "Real-time feedback",
+      "Learning motivation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Khan Academy"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Quizlet AI",
+    "slug": "quizlet-ai",
+    "tagline": "AI Study Companion",
+    "description": "Quizlet AI is an AI-powered study companion that provides personalized study plans, flashcards, and practice tests for a wide range of subjects. It's designed for students who want to study more effectively and efficiently. Quizlet AI's tools provide real-time feedback, suggestions for improvement, and encouragement to help students stay motivated.",
+    "url": "https://quizlet.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Flashcards",
+          "Practice tests"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "Personalized study plans",
+          "Real-time feedback",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 40,
+        "interval": "month",
+        "features": [
+          "All Pro features",
+          "Team management",
+          "Custom support"
+        ]
+      }
+    ],
+    "features": [
+      "Flashcards",
+      "Practice tests",
+      "Personalized study plans",
+      "Real-time feedback",
+      "Priority support",
+      "Team management"
+    ],
+    "use_cases": [
+      "Study planning",
+      "Flashcard creation",
+      "Practice testing"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Google Classroom"
+    ],
+    "avg_rating": 4.4,
+    "review_count": 1500,
+    "is_verified": true,
+    "is_featured": true,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Scispace",
+    "slug": "scispace",
+    "tagline": "AI Research Platform",
+    "description": "Scispace is an AI-powered research platform that provides tools for researchers to collaborate, organize, and publish their work. It's designed for researchers who want to streamline their workflow and make their research more accessible. Scispace's AI tools provide automated formatting, citation management, and collaboration features to help researchers focus on their work.",
+    "url": "https://typeset.io",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Automated formatting",
+          "Citation management"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 10,
+        "interval": "month",
+        "features": [
+          "Collaboration tools",
+          "Priority support",
+          "Custom templates"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 20,
+        "interval": "month",
+        "features": [
+          "All Pro features",
+          "Team management",
+          "Custom support"
+        ]
+      }
+    ],
+    "features": [
+      "Automated formatting",
+      "Citation management",
+      "Collaboration tools",
+      "Priority support",
+      "Custom templates",
+      "Team management"
+    ],
+    "use_cases": [
+      "Research collaboration",
+      "Automated formatting",
+      "Citation management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "NotebookLM",
+    "slug": "notebooklm",
+    "tagline": "AI Notebook",
+    "description": "NotebookLM is an AI-powered notebook that provides a collaborative workspace for researchers and students to work on projects and share knowledge. It's designed for teams who want to work together on complex projects and need a flexible and customizable workspace. NotebookLM's AI tools provide real-time feedback, suggestions for improvement, and automated formatting to help teams stay organized and focused.",
+    "url": "https://notebooklm.google.com",
+    "pricing_model": "free",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Collaborative workspace",
+          "Real-time feedback",
+          "Automated formatting"
+        ]
+      }
+    ],
+    "features": [
+      "Collaborative workspace",
+      "Real-time feedback",
+      "Automated formatting"
+    ],
+    "use_cases": [
+      "Collaborative research",
+      "Project management",
+      "Knowledge sharing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Drive"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "education-research"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Julius AI",
+    "slug": "julius-ai",
+    "tagline": "AI for all",
+    "description": "Julius AI is an AI platform that helps businesses automate tasks and make data-driven decisions. It's designed for non-technical users and provides an easy-to-use interface. Julius AI is special because it offers a wide range of features and integrations.",
+    "url": "https://julius.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 99,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Automation",
+          "Data Analysis",
+          "Integration"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 299,
+        "interval": "month",
+        "features": [
+          "Automation",
+          "Data Analysis",
+          "Integration",
+          "Advanced Reporting"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 999,
+        "interval": "month",
+        "features": [
+          "Automation",
+          "Data Analysis",
+          "Integration",
+          "Advanced Reporting",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Automation",
+      "Data Analysis",
+      "Integration",
+      "Advanced Reporting",
+      "Custom Support",
+      "Machine Learning"
+    ],
+    "use_cases": [
+      "Automating tasks",
+      "Data analysis",
+      "Business decision making",
+      "Customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Hubspot"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "data-analytics"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Tableau AI",
+    "slug": "tableau-ai",
+    "tagline": "AI for data",
+    "description": "Tableau AI is a data analytics platform that uses AI to help users make sense of their data. It's designed for data analysts and scientists, and provides a wide range of features and integrations. Tableau AI is special because it offers advanced data visualization and machine learning capabilities.",
+    "url": "https://tableau.com",
+    "pricing_model": "paid",
+    "price_starting_at": 35,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Creator",
+        "price": 35,
+        "interval": "month",
+        "features": [
+          "Data Visualization",
+          "Machine Learning",
+          "Integration"
+        ]
+      },
+      {
+        "name": "Explorer",
+        "price": 12,
+        "interval": "month",
+        "features": [
+          "Data Visualization",
+          "Integration"
+        ]
+      },
+      {
+        "name": "Viewer",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Data Visualization"
+        ]
+      }
+    ],
+    "features": [
+      "Data Visualization",
+      "Machine Learning",
+      "Integration",
+      "Advanced Analytics",
+      "Collaboration",
+      "Security"
+    ],
+    "use_cases": [
+      "Data analysis",
+      "Business decision making",
+      "Data visualization",
+      "Machine learning"
+    ],
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Google Analytics"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "data-analytics"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Obviously AI",
+    "slug": "obviously-ai",
+    "tagline": "AI made easy",
+    "description": "Obviously AI is a no-code AI platform that helps businesses automate tasks and make data-driven decisions. It's designed for non-technical users and provides an easy-to-use interface. Obviously AI is special because it offers a wide range of features and integrations, and is very user-friendly.",
+    "url": "https://obviously.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Automation",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "Automation",
+          "Data Analysis",
+          "Integration",
+          "Advanced Reporting"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Automation",
+          "Data Analysis",
+          "Integration",
+          "Advanced Reporting",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Automation",
+      "Data Analysis",
+      "Integration",
+      "Advanced Reporting",
+      "Custom Support",
+      "Machine Learning"
+    ],
+    "use_cases": [
+      "Automating tasks",
+      "Data analysis",
+      "Business decision making",
+      "Customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Zapier",
+      "Integromat"
+    ],
+    "avg_rating": 4.1,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "data-analytics"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "MonkeyLearn",
+    "slug": "monkeylearn",
+    "tagline": "AI for text",
+    "description": "MonkeyLearn is a text analysis platform that uses AI to help users analyze and understand text data. It's designed for data analysts and scientists, and provides a wide range of features and integrations. MonkeyLearn is special because it offers advanced text analysis and machine learning capabilities.",
+    "url": "https://monkeylearn.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Text Analysis",
+          "Sentiment Analysis"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Text Analysis",
+          "Sentiment Analysis",
+          "Topic Modeling",
+          "Entity Extraction"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 199,
+        "interval": "month",
+        "features": [
+          "Text Analysis",
+          "Sentiment Analysis",
+          "Topic Modeling",
+          "Entity Extraction",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Text Analysis",
+      "Sentiment Analysis",
+      "Topic Modeling",
+      "Entity Extraction",
+      "Custom Support",
+      "Machine Learning"
+    ],
+    "use_cases": [
+      "Text analysis",
+      "Sentiment analysis",
+      "Topic modeling",
+      "Entity extraction"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Zapier",
+      "Integromat"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "data-analytics"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Akkio",
+    "slug": "akkio",
+    "tagline": "AI for all",
+    "description": "Akkio is a no-code AI platform that helps businesses automate tasks and make data-driven decisions. It's designed for non-technical users and provides an easy-to-use interface. Akkio is special because it offers a wide range of features and integrations, and is very user-friendly.",
+    "url": "https://akkio.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Automation",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Automation",
+          "Data Analysis",
+          "Integration",
+          "Advanced Reporting"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Automation",
+          "Data Analysis",
+          "Integration",
+          "Advanced Reporting",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Automation",
+      "Data Analysis",
+      "Integration",
+      "Advanced Reporting",
+      "Custom Support",
+      "Machine Learning"
+    ],
+    "use_cases": [
+      "Automating tasks",
+      "Data analysis",
+      "Business decision making",
+      "Customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Zapier",
+      "Integromat"
+    ],
+    "avg_rating": 4,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "data-analytics"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Polymer",
+    "slug": "polymer",
+    "tagline": "AI search",
+    "description": "Polymer is a search platform that uses AI to help users find and discover new information. It's designed for researchers and students, and provides a wide range of features and integrations. Polymer is special because it offers advanced search and discovery capabilities.",
+    "url": "https://polymersearch.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Search",
+          "Discovery"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 19,
+        "interval": "month",
+        "features": [
+          "Search",
+          "Discovery",
+          "Advanced Filtering",
+          "Custom Support"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Search",
+          "Discovery",
+          "Advanced Filtering",
+          "Custom Support",
+          "API Access"
+        ]
+      }
+    ],
+    "features": [
+      "Search",
+      "Discovery",
+      "Advanced Filtering",
+      "Custom Support",
+      "API Access",
+      "Machine Learning"
+    ],
+    "use_cases": [
+      "Research",
+      "Discovery",
+      "Information retrieval",
+      "Knowledge management"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Zapier",
+      "Integromat"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "data-analytics"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Zendesk AI",
+    "slug": "zendesk-ai",
+    "tagline": "AI for support",
+    "description": "Zendesk AI is a customer support platform that uses AI to help users provide better support to their customers. It's designed for customer support teams, and provides a wide range of features and integrations. Zendesk AI is special because it offers advanced AI-powered support capabilities.",
+    "url": "https://zendesk.com",
+    "pricing_model": "paid",
+    "price_starting_at": 49,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Team",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Ticketing",
+          "Chat",
+          "AI-powered support"
+        ]
+      },
+      {
+        "name": "Professional",
+        "price": 79,
+        "interval": "month",
+        "features": [
+          "Ticketing",
+          "Chat",
+          "AI-powered support",
+          "Advanced Reporting"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 149,
+        "interval": "month",
+        "features": [
+          "Ticketing",
+          "Chat",
+          "AI-powered support",
+          "Advanced Reporting",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Ticketing",
+      "Chat",
+      "AI-powered support",
+      "Advanced Reporting",
+      "Custom Support",
+      "Machine Learning"
+    ],
+    "use_cases": [
+      "Customer support",
+      "Ticketing",
+      "Chat",
+      "AI-powered support"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Hubspot"
+    ],
+    "avg_rating": 4.4,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "customer-support"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Freshdesk Freddy",
+    "slug": "freshdesk-freddy",
+    "tagline": "AI for support",
+    "description": "Freshdesk Freddy is a customer support platform that uses AI to help users provide better support to their customers. It's designed for customer support teams, and provides a wide range of features and integrations. Freshdesk Freddy is special because it offers advanced AI-powered support capabilities.",
+    "url": "https://freshworks.com/freshdesk",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Ticketing",
+          "Chat"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Ticketing",
+          "Chat",
+          "AI-powered support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Ticketing",
+          "Chat",
+          "AI-powered support",
+          "Advanced Reporting",
+          "Custom Support"
+        ]
+      }
+    ],
+    "features": [
+      "Ticketing",
+      "Chat",
+      "AI-powered support",
+      "Advanced Reporting",
+      "Custom Support",
+      "Machine Learning"
+    ],
+    "use_cases": [
+      "Customer support",
+      "Ticketing",
+      "Chat",
+      "AI-powered support"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Hubspot"
+    ],
+    "avg_rating": 4.1,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "customer-support"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Ada",
+    "slug": "ada",
+    "tagline": "AI chatbot",
+    "description": "Ada is an AI-powered chatbot that helps businesses automate customer support. It's designed for companies of all sizes and offers a range of features to improve customer engagement. With Ada, you can create custom chatbots that integrate with your existing systems.",
+    "url": "https://ada.cx",
+    "pricing_model": "paid",
+    "price_starting_at": 100,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Growth",
+        "price": 100,
+        "interval": "month",
+        "features": [
+          "Custom chatbots",
+          "Integration with existing systems"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 500,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      }
+    ],
+    "features": [
+      "Custom chatbots",
+      "Integration with existing systems",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation"
+    ],
+    "use_cases": [
+      "Customer support",
+      "Sales automation",
+      "Marketing automation",
+      "IT support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Zendesk"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 150,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "customer-support"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Tidio",
+    "slug": "tidio",
+    "tagline": "Chatbot platform",
+    "description": "Tidio is a chatbot platform that allows businesses to create and manage their own chatbots. It offers a range of features, including automated responses, lead generation, and integration with popular messaging platforms. Tidio is designed for small to medium-sized businesses and offers a user-friendly interface.",
+    "url": "https://tidio.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic chatbot functionality"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 300,
+        "interval": "month",
+        "features": [
+          "Multi-language support",
+          "AI-powered automation"
+        ]
+      }
+    ],
+    "features": [
+      "Basic chatbot functionality",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation",
+      "Integration with messaging platforms"
+    ],
+    "use_cases": [
+      "Customer support",
+      "Sales automation",
+      "Marketing automation",
+      "E-commerce support"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Facebook Messenger",
+      "WhatsApp"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "customer-support"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Drift",
+    "slug": "drift",
+    "tagline": "Conversational AI",
+    "description": "Drift is a conversational AI platform that helps businesses automate sales and marketing conversations. It offers a range of features, including chatbots, email automation, and lead generation. Drift is designed for large enterprises and offers advanced analytics and customization options.",
+    "url": "https://salesloft.com/drift",
+    "pricing_model": "paid",
+    "price_starting_at": 500,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Essentials",
+        "price": 500,
+        "interval": "month",
+        "features": [
+          "Basic chatbot functionality",
+          "Email automation"
+        ]
+      },
+      {
+        "name": "Advanced",
+        "price": 1000,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 2000,
+        "interval": "month",
+        "features": [
+          "Multi-language support",
+          "AI-powered automation"
+        ]
+      }
+    ],
+    "features": [
+      "Basic chatbot functionality",
+      "Email automation",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation"
+    ],
+    "use_cases": [
+      "Sales automation",
+      "Marketing automation",
+      "Lead generation",
+      "Customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Marketo"
+    ],
+    "avg_rating": 4.8,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "customer-support",
+      "sales-crm"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "ChatBot",
+    "slug": "chatbot",
+    "tagline": "AI chatbot builder",
+    "description": "ChatBot is an AI chatbot builder that allows businesses to create and manage their own chatbots. It offers a range of features, including automated responses, lead generation, and integration with popular messaging platforms. ChatBot is designed for small to medium-sized businesses and offers a user-friendly interface.",
+    "url": "https://chatbot.com",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic chatbot functionality"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 200,
+        "interval": "month",
+        "features": [
+          "Multi-language support",
+          "AI-powered automation"
+        ]
+      }
+    ],
+    "features": [
+      "Basic chatbot functionality",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation",
+      "Integration with messaging platforms"
+    ],
+    "use_cases": [
+      "Customer support",
+      "Sales automation",
+      "Marketing automation",
+      "E-commerce support"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Facebook Messenger",
+      "WhatsApp"
+    ],
+    "avg_rating": 4.1,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "customer-support"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Apollo AI",
+    "slug": "apollo-ai",
+    "tagline": "AI sales platform",
+    "description": "Apollo AI is an AI sales platform that helps businesses automate sales and marketing conversations. It offers a range of features, including chatbots, email automation, and lead generation. Apollo AI is designed for large enterprises and offers advanced analytics and customization options.",
+    "url": "https://apollo.io",
+    "pricing_model": "paid",
+    "price_starting_at": 1000,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Growth",
+        "price": 1000,
+        "interval": "month",
+        "features": [
+          "Basic chatbot functionality",
+          "Email automation"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 2500,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      },
+      {
+        "name": "Custom",
+        "price": 5000,
+        "interval": "month",
+        "features": [
+          "Multi-language support",
+          "AI-powered automation"
+        ]
+      }
+    ],
+    "features": [
+      "Basic chatbot functionality",
+      "Email automation",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation"
+    ],
+    "use_cases": [
+      "Sales automation",
+      "Marketing automation",
+      "Lead generation",
+      "Customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Marketo"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 150,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Gong",
+    "slug": "gong",
+    "tagline": "Revenue intelligence",
+    "description": "Gong is a revenue intelligence platform that helps businesses automate sales and marketing conversations. It offers a range of features, including chatbots, email automation, and lead generation. Gong is designed for large enterprises and offers advanced analytics and customization options.",
+    "url": "https://gong.io",
+    "pricing_model": "paid",
+    "price_starting_at": 1000,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Growth",
+        "price": 1000,
+        "interval": "month",
+        "features": [
+          "Basic chatbot functionality",
+          "Email automation"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 2500,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      },
+      {
+        "name": "Custom",
+        "price": 5000,
+        "interval": "month",
+        "features": [
+          "Multi-language support",
+          "AI-powered automation"
+        ]
+      }
+    ],
+    "features": [
+      "Basic chatbot functionality",
+      "Email automation",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation"
+    ],
+    "use_cases": [
+      "Sales automation",
+      "Marketing automation",
+      "Lead generation",
+      "Customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Marketo"
+    ],
+    "avg_rating": 4.7,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Lavender",
+    "slug": "lavender",
+    "tagline": "AI sales assistant",
+    "description": "Lavender is an AI sales assistant that helps businesses automate sales and marketing conversations. It offers a range of features, including chatbots, email automation, and lead generation. Lavender is designed for small to medium-sized businesses and offers a user-friendly interface.",
+    "url": "https://lavender.ai",
+    "pricing_model": "freemium",
+    "price_starting_at": 0,
+    "has_free_tier": true,
+    "has_free_trial": false,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic chatbot functionality"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 50,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": 200,
+        "interval": "month",
+        "features": [
+          "Multi-language support",
+          "AI-powered automation"
+        ]
+      }
+    ],
+    "features": [
+      "Basic chatbot functionality",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation",
+      "Integration with messaging platforms"
+    ],
+    "use_cases": [
+      "Customer support",
+      "Sales automation",
+      "Marketing automation",
+      "E-commerce support"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "integrations": [
+      "Facebook Messenger",
+      "WhatsApp"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "sales-crm",
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Outreach",
+    "slug": "outreach",
+    "tagline": "Sales engagement",
+    "description": "Outreach is a sales engagement platform that helps businesses automate sales and marketing conversations. It offers a range of features, including chatbots, email automation, and lead generation. Outreach is designed for large enterprises and offers advanced analytics and customization options.",
+    "url": "https://outreach.io",
+    "pricing_model": "paid",
+    "price_starting_at": 100,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Growth",
+        "price": 100,
+        "interval": "month",
+        "features": [
+          "Basic chatbot functionality",
+          "Email automation"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 500,
+        "interval": "month",
+        "features": [
+          "Advanced analytics",
+          "Customizable workflows"
+        ]
+      },
+      {
+        "name": "Custom",
+        "price": 1000,
+        "interval": "month",
+        "features": [
+          "Multi-language support",
+          "AI-powered automation"
+        ]
+      }
+    ],
+    "features": [
+      "Basic chatbot functionality",
+      "Email automation",
+      "Advanced analytics",
+      "Customizable workflows",
+      "Multi-language support",
+      "AI-powered automation"
+    ],
+    "use_cases": [
+      "Sales automation",
+      "Marketing automation",
+      "Lead generation",
+      "Customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Marketo"
+    ],
+    "avg_rating": 4.4,
+    "review_count": 150,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Clari",
+    "slug": "clari",
+    "tagline": "Revenue Platform",
+    "description": "Clari is an AI-powered revenue platform that helps businesses predict and manage their revenue. It provides real-time visibility into sales performance and helps companies make data-driven decisions. Clari is designed for sales and revenue teams who want to optimize their sales processes and improve forecasting accuracy.",
+    "url": "https://clari.com",
+    "pricing_model": "paid",
+    "price_starting_at": 10000,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Growth",
+        "price": 10000,
+        "interval": "year",
+        "features": [
+          "Revenue Forecasting",
+          "Sales Analytics",
+          "Pipeline Management"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 50000,
+        "interval": "year",
+        "features": [
+          "Revenue Forecasting",
+          "Sales Analytics",
+          "Pipeline Management",
+          "Custom Integration",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Revenue Forecasting",
+      "Sales Analytics",
+      "Pipeline Management",
+      "Custom Integration",
+      "Dedicated Support",
+      "Real-time Visibility"
+    ],
+    "use_cases": [
+      "Revenue Forecasting",
+      "Sales Performance Management",
+      "Pipeline Optimization",
+      "Sales Analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Seamless.AI",
+    "slug": "seamless-ai",
+    "tagline": "Sales Automation",
+    "description": "Seamless.AI is an AI-powered sales automation platform that helps businesses automate their sales processes. It provides tools for lead generation, email automation, and sales analytics. Seamless.AI is designed for sales teams who want to streamline their sales workflows and improve productivity.",
+    "url": "https://seamless.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 65,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 65,
+        "interval": "month",
+        "features": [
+          "Lead Generation",
+          "Email Automation",
+          "Sales Analytics"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 200,
+        "interval": "month",
+        "features": [
+          "Lead Generation",
+          "Email Automation",
+          "Sales Analytics",
+          "Custom Integration",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Lead Generation",
+      "Email Automation",
+      "Sales Analytics",
+      "Custom Integration",
+      "Dedicated Support",
+      "Sales Automation"
+    ],
+    "use_cases": [
+      "Sales Automation",
+      "Lead Generation",
+      "Email Marketing",
+      "Sales Analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 500,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "HireVue",
+    "slug": "hirevue",
+    "tagline": "AI-Powered Hiring",
+    "description": "HireVue is an AI-powered hiring platform that helps businesses streamline their recruitment processes. It provides tools for video interviewing, skills assessment, and candidate evaluation. HireVue is designed for HR teams who want to improve the efficiency and effectiveness of their hiring processes.",
+    "url": "https://hirevue.com",
+    "pricing_model": "paid",
+    "price_starting_at": 5000,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Essentials",
+        "price": 5000,
+        "interval": "year",
+        "features": [
+          "Video Interviewing",
+          "Skills Assessment",
+          "Candidate Evaluation"
+        ]
+      },
+      {
+        "name": "Advanced",
+        "price": 20000,
+        "interval": "year",
+        "features": [
+          "Video Interviewing",
+          "Skills Assessment",
+          "Candidate Evaluation",
+          "Custom Integration",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Video Interviewing",
+      "Skills Assessment",
+      "Candidate Evaluation",
+      "Custom Integration",
+      "Dedicated Support",
+      "AI-Powered Hiring"
+    ],
+    "use_cases": [
+      "Hiring Process Automation",
+      "Candidate Evaluation",
+      "Skills Assessment",
+      "Video Interviewing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Workday",
+      "Oracle"
+    ],
+    "avg_rating": 4.1,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "hr-recruiting"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Fetcher",
+    "slug": "fetcher",
+    "tagline": "AI Recruiting",
+    "description": "Fetcher is an AI-powered recruiting platform that helps businesses automate their recruitment processes. It provides tools for candidate sourcing, screening, and evaluation. Fetcher is designed for HR teams who want to streamline their hiring workflows and improve candidate quality.",
+    "url": "https://fetcher.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 500,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 500,
+        "interval": "month",
+        "features": [
+          "Candidate Sourcing",
+          "Screening",
+          "Evaluation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 2000,
+        "interval": "month",
+        "features": [
+          "Candidate Sourcing",
+          "Screening",
+          "Evaluation",
+          "Custom Integration",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Candidate Sourcing",
+      "Screening",
+      "Evaluation",
+      "Custom Integration",
+      "Dedicated Support",
+      "AI-Powered Recruiting"
+    ],
+    "use_cases": [
+      "Recruitment Process Automation",
+      "Candidate Sourcing",
+      "Screening",
+      "Evaluation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Workday",
+      "Oracle"
+    ],
+    "avg_rating": 4.3,
+    "review_count": 150,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "hr-recruiting"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Textio",
+    "slug": "textio",
+    "tagline": "AI Writing Assistant",
+    "description": "Textio is an AI-powered writing assistant that helps businesses improve their writing quality and consistency. It provides tools for content optimization, grammar checking, and style suggestions. Textio is designed for writers and content creators who want to enhance their writing skills and productivity.",
+    "url": "https://textio.com",
+    "pricing_model": "paid",
+    "price_starting_at": 25,
+    "has_free_tier": true,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Free",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Basic Writing Tools"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 25,
+        "interval": "month",
+        "features": [
+          "Advanced Writing Tools",
+          "Content Optimization",
+          "Grammar Checking",
+          "Style Suggestions"
+        ]
+      }
+    ],
+    "features": [
+      "Content Optimization",
+      "Grammar Checking",
+      "Style Suggestions",
+      "Basic Writing Tools",
+      "Advanced Writing Tools",
+      "AI-Powered Writing Assistant"
+    ],
+    "use_cases": [
+      "Content Creation",
+      "Writing Assistance",
+      "Grammar Checking",
+      "Style Suggestions"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 1000,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "hr-recruiting",
+      "writing-content"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Paradox",
+    "slug": "paradox",
+    "tagline": "AI Recruiting Platform",
+    "description": "Paradox is an AI-powered recruiting platform that helps businesses automate their recruitment processes. It provides tools for candidate sourcing, screening, and evaluation. Paradox is designed for HR teams who want to streamline their hiring workflows and improve candidate quality.",
+    "url": "https://paradox.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 1000,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 1000,
+        "interval": "month",
+        "features": [
+          "Candidate Sourcing",
+          "Screening",
+          "Evaluation"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 5000,
+        "interval": "month",
+        "features": [
+          "Candidate Sourcing",
+          "Screening",
+          "Evaluation",
+          "Custom Integration",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Candidate Sourcing",
+      "Screening",
+      "Evaluation",
+      "Custom Integration",
+      "Dedicated Support",
+      "AI-Powered Recruiting"
+    ],
+    "use_cases": [
+      "Recruitment Process Automation",
+      "Candidate Sourcing",
+      "Screening",
+      "Evaluation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Workday",
+      "Oracle"
+    ],
+    "avg_rating": 4.4,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "hr-recruiting"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Eightfold AI",
+    "slug": "eightfold-ai",
+    "tagline": "AI Talent Management",
+    "description": "Eightfold AI is an AI-powered talent management platform that helps businesses optimize their talent acquisition and management processes. It provides tools for candidate sourcing, screening, and evaluation, as well as talent development and retention. Eightfold AI is designed for HR teams who want to improve their talent management strategies and outcomes.",
+    "url": "https://eightfold.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 5000,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Talent Acquisition",
+        "price": 5000,
+        "interval": "year",
+        "features": [
+          "Candidate Sourcing",
+          "Screening",
+          "Evaluation"
+        ]
+      },
+      {
+        "name": "Talent Management",
+        "price": 20000,
+        "interval": "year",
+        "features": [
+          "Candidate Sourcing",
+          "Screening",
+          "Evaluation",
+          "Talent Development",
+          "Retention",
+          "Custom Integration",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Candidate Sourcing",
+      "Screening",
+      "Evaluation",
+      "Talent Development",
+      "Retention",
+      "Custom Integration",
+      "Dedicated Support",
+      "AI-Powered Talent Management"
+    ],
+    "use_cases": [
+      "Talent Acquisition",
+      "Talent Management",
+      "Candidate Sourcing",
+      "Screening",
+      "Evaluation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Workday",
+      "Oracle"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 150,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "hr-recruiting"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Harvey AI",
+    "slug": "harvey-ai",
+    "tagline": "AI Legal Assistant",
+    "description": "Harvey AI is an AI-powered legal assistant that helps lawyers and law firms automate their legal research and document review processes. It provides tools for contract review, document analysis, and legal research. Harvey AI is designed for lawyers and law firms who want to improve their productivity and efficiency.",
+    "url": "https://harvey.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 100,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 100,
+        "interval": "month",
+        "features": [
+          "Contract Review",
+          "Document Analysis",
+          "Legal Research"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 500,
+        "interval": "month",
+        "features": [
+          "Contract Review",
+          "Document Analysis",
+          "Legal Research",
+          "Custom Integration",
+          "Dedicated Support"
+        ]
+      }
+    ],
+    "features": [
+      "Contract Review",
+      "Document Analysis",
+      "Legal Research",
+      "Custom Integration",
+      "Dedicated Support",
+      "AI-Powered Legal Assistant"
+    ],
+    "use_cases": [
+      "Legal Research",
+      "Contract Review",
+      "Document Analysis",
+      "Law Firm Automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Westlaw",
+      "LexisNexis"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "legal-finance"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Casetext",
+    "slug": "casetext",
+    "tagline": "AI for lawyers",
+    "description": "Casetext is an AI-powered legal research platform that helps lawyers and legal professionals find relevant cases and statutes. It uses natural language processing to analyze legal documents and provide accurate results. Casetext is designed for law firms, corporations, and government agencies.",
+    "url": "https://casetext.com",
+    "pricing_model": "paid",
+    "price_starting_at": 65,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Solo",
+        "price": 65,
+        "interval": "month",
+        "features": [
+          "AI-powered search",
+          "Case law database",
+          "Federal and state statutes"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": 129,
+        "interval": "month",
+        "features": [
+          "AI-powered search",
+          "Case law database",
+          "Federal and state statutes",
+          "Collaboration tools"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "AI-powered search",
+          "Case law database",
+          "Federal and state statutes",
+          "Collaboration tools",
+          "Custom integration"
+        ]
+      }
+    ],
+    "features": [
+      "AI-powered search",
+      "Case law database",
+      "Federal and state statutes",
+      "Collaboration tools",
+      "Custom integration",
+      "Alerts and notifications",
+      "Document analysis"
+    ],
+    "use_cases": [
+      "Legal research",
+      "Case preparation",
+      "Contract review",
+      "Compliance checking"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "Westlaw",
+      "LexisNexis"
+    ],
+    "avg_rating": 4.5,
+    "review_count": 100,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "legal-finance"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Runway Financial",
+    "slug": "runway-financial",
+    "tagline": "AI for finance",
+    "description": "Runway Financial is an AI-powered financial planning and analysis platform that helps businesses forecast revenue and manage cash flow. It uses machine learning algorithms to analyze financial data and provide accurate predictions. Runway Financial is designed for small to medium-sized businesses and startups.",
+    "url": "https://runway.com",
+    "pricing_model": "paid",
+    "price_starting_at": 99,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Starter",
+        "price": 99,
+        "interval": "month",
+        "features": [
+          "Financial forecasting",
+          "Cash flow management",
+          "Revenue prediction"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": 249,
+        "interval": "month",
+        "features": [
+          "Financial forecasting",
+          "Cash flow management",
+          "Revenue prediction",
+          "Custom reporting"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Financial forecasting",
+          "Cash flow management",
+          "Revenue prediction",
+          "Custom reporting",
+          "Dedicated support"
+        ]
+      }
+    ],
+    "features": [
+      "Financial forecasting",
+      "Cash flow management",
+      "Revenue prediction",
+      "Custom reporting",
+      "Dedicated support",
+      "Integrations with accounting software",
+      "Alerts and notifications"
+    ],
+    "use_cases": [
+      "Financial planning",
+      "Cash flow management",
+      "Revenue forecasting",
+      "Budgeting"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "QuickBooks",
+      "Xero"
+    ],
+    "avg_rating": 4.2,
+    "review_count": 50,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "legal-finance"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Stampli",
+    "slug": "stampli",
+    "tagline": "AI for invoices",
+    "description": "Stampli is an AI-powered invoice management platform that helps businesses automate the invoice approval process. It uses machine learning algorithms to analyze invoices and provide accurate recommendations. Stampli is designed for accounts payable teams and finance professionals.",
+    "url": "https://stampli.com",
+    "pricing_model": "paid",
+    "price_starting_at": 0,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Invoice upload",
+          "Approval workflow"
+        ]
+      },
+      {
+        "name": "Advanced",
+        "price": 15,
+        "interval": "month",
+        "features": [
+          "Invoice upload",
+          "Approval workflow",
+          "Custom reporting",
+          "Integrations with ERP systems"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Invoice upload",
+          "Approval workflow",
+          "Custom reporting",
+          "Integrations with ERP systems",
+          "Dedicated support"
+        ]
+      }
+    ],
+    "features": [
+      "Invoice upload",
+      "Approval workflow",
+      "Custom reporting",
+      "Integrations with ERP systems",
+      "Dedicated support",
+      "Alerts and notifications",
+      "Automated invoice processing"
+    ],
+    "use_cases": [
+      "Invoice approval",
+      "Accounts payable automation",
+      "Invoice processing",
+      "Financial reporting"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "SAP",
+      "Oracle"
+    ],
+    "avg_rating": 4.8,
+    "review_count": 200,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "legal-finance"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  },
+  {
+    "name": "Vic.ai",
+    "slug": "vic-ai",
+    "tagline": "AI for accounting",
+    "description": "Vic.ai is an AI-powered accounting automation platform that helps businesses automate tasks such as invoice processing, expense reporting, and accounting reconciliation. It uses machine learning algorithms to analyze financial data and provide accurate recommendations. Vic.ai is designed for accounting firms, bookkeepers, and finance professionals.",
+    "url": "https://vic.ai",
+    "pricing_model": "paid",
+    "price_starting_at": 0,
+    "has_free_tier": false,
+    "has_free_trial": true,
+    "pricing_details": [
+      {
+        "name": "Basic",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Invoice processing",
+          "Expense reporting"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 49,
+        "interval": "month",
+        "features": [
+          "Invoice processing",
+          "Expense reporting",
+          "Accounting reconciliation",
+          "Custom reporting"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": 0,
+        "interval": null,
+        "features": [
+          "Invoice processing",
+          "Expense reporting",
+          "Accounting reconciliation",
+          "Custom reporting",
+          "Dedicated support"
+        ]
+      }
+    ],
+    "features": [
+      "Invoice processing",
+      "Expense reporting",
+      "Accounting reconciliation",
+      "Custom reporting",
+      "Dedicated support",
+      "Alerts and notifications",
+      "Automated accounting tasks"
+    ],
+    "use_cases": [
+      "Accounting automation",
+      "Invoice processing",
+      "Expense reporting",
+      "Financial reporting"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "integrations": [
+      "QuickBooks",
+      "Xero"
+    ],
+    "avg_rating": 4.6,
+    "review_count": 150,
+    "is_verified": true,
+    "is_featured": false,
+    "status": "active",
+    "category_slugs": [
+      "legal-finance"
+    ],
+    "logo_url": null,
+    "screenshot_url": null,
+    "meta_title": null,
+    "meta_description": null
+  }
+]

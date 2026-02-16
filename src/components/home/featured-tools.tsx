@@ -2,70 +2,7 @@ import Link from "next/link";
 import { ArrowRight, Star, ExternalLink } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { PRICING_LABELS } from "@/lib/constants";
-
-// Static featured tools for MVP (before Supabase is connected)
-const FEATURED_TOOLS = [
-  {
-    slug: "chatgpt",
-    name: "ChatGPT",
-    tagline: "AI assistant for writing, analysis, coding, and more",
-    pricing_model: "freemium",
-    avg_rating: 4.7,
-    review_count: 1250,
-    categories: ["Writing & Content", "Coding & Development"],
-    logo_emoji: "🤖",
-  },
-  {
-    slug: "midjourney",
-    name: "Midjourney",
-    tagline: "Create stunning images from text descriptions",
-    pricing_model: "paid",
-    avg_rating: 4.6,
-    review_count: 890,
-    categories: ["Image & Design"],
-    logo_emoji: "🎨",
-  },
-  {
-    slug: "notion-ai",
-    name: "Notion AI",
-    tagline: "AI-powered writing and organization in your workspace",
-    pricing_model: "freemium",
-    avg_rating: 4.5,
-    review_count: 720,
-    categories: ["Business & Productivity", "Writing & Content"],
-    logo_emoji: "📝",
-  },
-  {
-    slug: "cursor",
-    name: "Cursor",
-    tagline: "AI-first code editor that helps you build software faster",
-    pricing_model: "freemium",
-    avg_rating: 4.8,
-    review_count: 540,
-    categories: ["Coding & Development"],
-    logo_emoji: "⌨️",
-  },
-  {
-    slug: "canva-ai",
-    name: "Canva AI",
-    tagline: "Design anything with AI-powered tools built into Canva",
-    pricing_model: "freemium",
-    avg_rating: 4.5,
-    review_count: 980,
-    categories: ["Image & Design", "Marketing"],
-    logo_emoji: "🖼️",
-  },
-  {
-    slug: "grammarly",
-    name: "Grammarly",
-    tagline: "AI writing assistant for grammar, tone, and clarity",
-    pricing_model: "freemium",
-    avg_rating: 4.6,
-    review_count: 1100,
-    categories: ["Writing & Content"],
-    logo_emoji: "✍️",
-  },
-];
+import { createClient } from "@/lib/supabase/server";
 
 function PricingBadge({ model }: { model: string }) {
   const variants: Record<string, string> = {
@@ -81,7 +18,56 @@ function PricingBadge({ model }: { model: string }) {
   );
 }
 
-export function FeaturedTools() {
+interface FeaturedTool {
+  id: string;
+  slug: string;
+  name: string;
+  tagline: string;
+  pricing_model: string;
+  avg_rating: number;
+  review_count: number;
+  logo_url: string | null;
+  categories: string[];
+}
+
+async function getFeaturedTools(): Promise<FeaturedTool[]> {
+  const supabase = await createClient();
+
+  const { data: tools } = await supabase
+    .from("tools")
+    .select("id, slug, name, tagline, pricing_model, avg_rating, review_count, logo_url")
+    .eq("status", "active")
+    .eq("is_featured", true)
+    .order("avg_rating", { ascending: false })
+    .limit(6);
+
+  if (!tools || tools.length === 0) return [];
+
+  // Fetch categories for featured tools
+  const toolIds = tools.map((t) => t.id);
+  const { data: toolCats } = await supabase
+    .from("tool_categories")
+    .select("tool_id, categories(name)")
+    .in("tool_id", toolIds);
+
+  const catMap = new Map<string, string[]>();
+  for (const tc of toolCats || []) {
+    const existing = catMap.get(tc.tool_id as string) || [];
+    if (tc.categories) existing.push((tc.categories as unknown as { name: string }).name);
+    catMap.set(tc.tool_id as string, existing);
+  }
+
+  return tools.map((t) => ({
+    ...t,
+    categories: catMap.get(t.id) || [],
+  }));
+}
+
+export async function FeaturedTools() {
+  const featuredTools = await getFeaturedTools();
+
+  if (featuredTools.length === 0) return null;
+
   return (
     <section className="border-t border-border/40 bg-muted/20">
       <div className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
@@ -103,16 +89,24 @@ export function FeaturedTools() {
         </div>
 
         <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {FEATURED_TOOLS.map((tool) => (
+          {featuredTools.map((tool) => (
             <Link
               key={tool.slug}
               href={`/tools/${tool.slug}`}
               className="group rounded-2xl border border-border/50 bg-card p-6 shadow-sm transition-all duration-200 hover:border-primary/20 hover:shadow-lg hover:shadow-primary/5"
             >
               <div className="flex items-start gap-4">
-                <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-muted text-2xl">
-                  {tool.logo_emoji}
-                </div>
+                {tool.logo_url ? (
+                  <img
+                    src={tool.logo_url}
+                    alt={tool.name}
+                    className="h-12 w-12 shrink-0 rounded-xl object-cover"
+                  />
+                ) : (
+                  <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-primary/20 to-primary/5 font-heading text-lg font-bold text-primary">
+                    {tool.name.charAt(0)}
+                  </div>
+                )}
                 <div className="min-w-0 flex-1">
                   <div className="flex items-center gap-2">
                     <h3 className="font-heading text-lg font-semibold group-hover:text-primary">

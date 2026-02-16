@@ -27,12 +27,13 @@ export function SearchResults() {
           body: JSON.stringify({ query }),
         });
 
-        if (!res.ok) throw new Error("Search failed");
-
-        const data: SearchResponse = await res.json();
-        setResults(data);
-      } catch {
-        setError("Something went wrong. Please try again.");
+        const data = await res.json();
+        if (!res.ok) {
+          throw new Error(data.error || "Search failed");
+        }
+        setResults(data as SearchResponse);
+      } catch (err) {
+        setError(err instanceof Error ? err.message : "Something went wrong. Please try again.");
       } finally {
         setLoading(false);
       }

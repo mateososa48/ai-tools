@@ -30,9 +30,11 @@ export async function GET(request: NextRequest) {
     query = query.eq("pricing_model", pricing);
   }
 
-  // Text search
+  // Text search across name, tagline, and description
   if (search) {
-    query = query.textSearch("name", search, { type: "websearch" });
+    query = query.or(
+      `name.ilike.%${search}%,tagline.ilike.%${search}%,description.ilike.%${search}%`
+    );
   }
 
   // Sorting

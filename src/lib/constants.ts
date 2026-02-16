@@ -1,4 +1,4 @@
-export const APP_NAME = "AI Tools Finder";
+export const APP_NAME = "Sift";
 export const APP_DESCRIPTION =
   "Discover the perfect AI tools for your needs. Describe what you want to accomplish, and we'll recommend the best matches with pricing, features, and honest reviews.";
 
